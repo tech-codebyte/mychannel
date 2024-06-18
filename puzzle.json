@@ -1,0 +1,128 @@
+[
+  {
+    "name": "2048",
+    "url": "https://play.famobi.com/2048/A-432OH",
+    "orientation": "port",
+    "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/2048Teaser.jpg"
+  },
+  {
+    "name":  "Get The Weight",
+    "url": "https://play.famobi.com/get-the-weight/A-432OH",
+    "orientation": "land",
+    "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/GetTheWeightTeaser.jpg"
+  },
+  {
+    "name":  "Fizz Puzzle",
+    "url": "https://m.shtoss.com/game/fizz-puzzle/index.html",
+    "orientation": "port",
+    "image_path": "https://s.h5games.online/images/fizz-puzzle.jpg"
+  },
+   {
+    "name": "Box Crush",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/S1Wrpf1v5ym",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/S1Wrpf1v5ym/square.png"
+  },
+  {
+    "name":  "Guess The Word",
+    "url": "https://play.famobi.com/alien-quest/A-432OH",
+    "orientation": "port",
+    "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/AlienQuestTeaser.jpg"
+  },
+  {
+    "name": "Robotion",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/B1SlRFrWuN",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/B1SlRFrWuN/square.png"
+  },
+  {
+    "name":  "Two Sides",
+    "url": "https://m.shtoss.com/game/two-sides/index.html",
+    "orientation": "port",
+    "image_path": "https://s.h5games.online/images/two-sides.jpg"
+  },
+   {
+    "name": "Find Way",
+    "url": "https://m.shtoss.com/game/find-a-way/index.html",
+    "orientation": "port",
+    "image_path": "https://s.h5games.online/images/find-a-way.jpg"
+  },
+  {
+    "name":    "Pixel Slime",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/Sk728YXJx",
+    "orientation": "land",
+    "image_path": "https://static.gamezop.io/Sk728YXJx/square.png"
+  },
+  {
+    "name":    "Locomotive",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/HkxcskEs5",
+    "orientation": "land",
+    "image_path": "https://static.gamezop.io/HkxcskEs5/square.png"
+  },
+  {
+    "name": "Maths",
+    "url": "https://m.shtoss.com/game/math-freak/index.html",
+    "orientation": "port",
+    "image_path": "https://s.h5games.online/images/math-freak.jpg"
+  },
+  {
+    "name": "Hex Burst",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/H1abja2M_eb",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/H1abja2M_eb/square.png"
+  },
+  {
+    "name":    "Veggie Rabbit",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/BkpeAKrW_E",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/BkpeAKrW_E/square.png"
+  },
+  {
+    "name":   "Cyberfusion",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/HJXei0j",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/HJXei0j/square.png"
+  },
+  {
+    "name":    "Match Up",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/HkmMITNQ0l",
+    "orientation": "land",
+    "image_path": "https://static.gamezop.io/HkmMITNQ0l/square.png"
+  },
+  {
+    "name":   "Fancy Diver",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/rkWemI2q",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/rkWemI2q/square.png"
+  },
+  {
+    "name":  "Tiles Game",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/BJ5-b8jmLIx",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/BJ5-b8jmLIx/square.png"
+  },
+  {
+    "name":  "Alien KG",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/r1Xm38FQkl",
+    "orientation": "land",
+    "image_path": "https://static.gamezop.io/r1Xm38FQkl/square.png"
+  },
+  {
+    "name":  "Swipe Art",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/rJsl0KSbuN",
+    "orientation": "land",
+    "image_path": "https://static.gamezop.io/rJsl0KSbuN/square.png"
+  },
+  {
+    "name":   "1212!",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/41FZfdyG-5x",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/41FZfdyG-5x/square.png"
+  },
+  {
+    "name":  "Cute Towers",
+    "url":"https://hjtgdhhefjx.play.gamezop.com/g/ByZ3DF_hd",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/ByZ3DF_hd/square.png"
+  }
+]

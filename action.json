@@ -1,0 +1,116 @@
+[
+   {
+    "name":  "Target",
+    "url": "https://m.shtoss.com/game/target/index.html",
+    "orientation": "port",
+    "image_path": "https://s.h5games.online/images/target.jpg"
+  },
+   {
+    "name": "Spinning Shooter",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/B19EafJP9JX",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/B19EafJP9JX/square.png"
+  },
+   {
+    "name":  "Galaxy Domination",
+    "url": "https://m.shtoss.com/game/galaxy-domination/index.html",
+    "orientation": "port",
+    "image_path": "https://s.h5games.online/images/galaxy-domination.jpg"
+  },
+  {
+    "name":   "Aliens Attack",
+    "url": "https://play.famobi.com/aliens-attack/A-432OH",
+    "orientation": "land",
+    "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/AliensAttackTeaser.jpg"
+  },
+  {
+    "name":  "Knife VS Zombies",
+    "url": "https://www.atmegame.com/games/knife-vs-zombies?utm_source=Gameshub&utm_medium=Gameshub",
+    "orientation": "land",
+    "image_path": "https://games.atmegame.com/gameshub/images/knife-vs-zombies/thumb.png"
+  },
+  {
+    "name":  "Rocket Man",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/SyXuN7W1F",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/SyXuN7W1F/square.png"
+  },
+  {
+    "name":  "Zombie Jump",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/rkxMV8TI6Wg",
+    "orientation": "land",
+    "image_path": "https://static.gamezop.io/rkxMV8TI6Wg/square.png"
+  },
+  {
+    "name":  "Shark Dash",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/H1zbZUsmULl",
+    "orientation": "land",
+    "image_path": "https://static.gamezop.io/H1zbZUsmULl/square.png"
+  },
+  {
+    "name":  "Zombocalypse",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/Bk2-DzLK_yg",
+    "orientation": "land",
+    "image_path": "https://static.gamezop.io/Bk2-DzLK_yg/square.png"
+  },
+  {
+    "name":   "Dead End",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/VJQzukG-qx",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/VJQzukG-qx/square.png"
+  },
+  {
+    "name":   "Pumpkin Smash",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/rJXlRtBWd4",
+    "orientation": "land",
+    "image_path": "https://static.gamezop.io/rJXlRtBWd4/square.png"
+  },
+  {
+    "name":    "Crunch Ninja",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/EJnzu1fb9g",
+    "orientation": "land",
+    "image_path": "https://static.gamezop.io/EJnzu1fb9g/square.png"
+  },
+  {
+    "name":   "Monsteroid",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/Skke0Kr-O4",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/Skke0Kr-O4/square.png"
+  },
+  {
+    "name":    "Savage Rev",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/ry6bwfUt_Jg",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/ry6bwfUt_Jg/square.png"
+  },
+  {
+    "name":  "Shadow Run",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/S1kGWUim8Ux",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/S1kGWUim8Ux/square.png"
+  },
+  {
+    "name":  "Animals Fight",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/Hy0ZqIO_fA",
+    "orientation": "land",
+    "image_path": "https://static.gamezop.io/Hy0ZqIO_fA/square.png"
+  },
+  {
+    "name": "Defence Karmax",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/r1zCFBZdV",
+    "orientation": "land",
+    "image_path": "https://static.gamezop.io/r1zCFBZdV/square.png"
+  },
+  {
+    "name":   "Saucer Dodge",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/B1Gbjphf_gZ",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/B1Gbjphf_gZ/square.png"
+  },
+  {
+    "name":   "Fidgety Frog",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/NkxfOJM-qg",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/NkxfOJM-qg/square.png"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "name":  "T-Rex Runner",
+    "url": "https://m.shtoss.com/game/t-rex-runner/index.html",
+    "orientation": "land",
+    "image_path": "https://s.h5games.online/images/t-rex-runner.jpg"
+  },
+ {
+    "name": "Penguin Skip",
+    "url": "https://play.famobi.com/penguin-skip/A-432OH",
+    "orientation": "land",
+    "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/PenguinSkipTeaser.jpg"
+  },
+  {
+    "name":  "Monkey Bounce",
+    "url": "https://play.famobi.com/monkey-bounce/A-432OH",
+    "orientation": "port",
+    "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/MonkeyBounceTeaser.jpg"
+  },
+   {
+    "name": "Skill Shot",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/ByvOVQZkK",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/ByvOVQZkK/square.png"
+  },
+   {
+    "name": "Bubble Wipeout",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/H1AN6fkwqJ7",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/H1AN6fkwqJ7/square.png"
+  },
+   {
+    "name":  "Darkness",
+    "url": "https://m.shtoss.com/game/he-likes-the-darkness/index.html",
+    "orientation": "land",
+    "image_path": "https://s.h5games.online/images/he-likes-the-darkness.jpg"
+  },
+  {
+    "name": "Escape Run",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/Skz4pzkDqyX",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/Skz4pzkDqyX/square.png"
+  },
+  {
+    "name":    "Knight Rider",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/rkYbNLTIT-x",
+    "orientation": "land",
+    "image_path": "https://static.gamezop.io/rkYbNLTIT-x/square.png"
+  },
+  {
+    "name":    "Space Cowboy",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/HycgCtSWuE",
+    "orientation": "land",
+    "image_path": "https://static.gamezop.io/HycgCtSWuE/square.png"
+  },
+  {
+    "name":    "Flying School",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/VJOGOyGb9l",
+    "orientation": "land",
+    "image_path": "https://static.gamezop.io/VJOGOyGb9l/square.png"
+  },
+  {
+    "name":   "BottomTight",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/rJDlAKHbdV",
+    "orientation": "land",
+    "image_path": "https://static.gamezop.io/rJDlAKHbdV/square.png"
+  },
+  {
+    "name":    "Astro Knot",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/HJD9VMRQa",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/HJD9VMRQa/square.png"
+  },
+  {
+    "name":    "Gerbil Jump",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/BJzGTMJv91Q",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/BJzGTMJv91Q/square.png"
+  },
+  {
+    "name":    "Sticky Goo",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/rJJMVIa8p-x",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/rJJMVIa8p-x/square.png"
+  },
+  {
+    "name":    "Rapunzel Tower",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/SJVxAtrW_N",
+    "orientation": "land",
+    "image_path": "https://static.gamezop.io/SJVxAtrW_N/square.png"
+  },
+  {
+    "name":    "Jimbo Jump",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/BkXW1a__",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/BkXW1a__/square.png"
+  },
+  {
+    "name":  "Monster Burn",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/BJLWDGLtO1l",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/BJLWDGLtO1l/square.png"
+  },
+  {
+    "name":  "Snappy Spy",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/SysZvGUt_ye",
+    "orientation": "land",
+    "image_path": "https://static.gamezop.io/SysZvGUt_ye/square.png"
+  },
+  {
+    "name":  "Twin Hop",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/BJrMI6E7Rl",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/BJrMI6E7Rl/square.png"
+  },
+  {
+    "name":   "Catch-a-pult",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/SkRWoanGOx",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/SkRWoanGOx/square.png"
+  },
+  {
+    "name":  "Submarine",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/SJz7-kTud",
+    "orientation": "land",
+    "image_path": "https://static.gamezop.io/SJz7-kTud/square.png"
+  },
+  {
+    "name":  "Terra Infirma",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/HkBWwMUFOye",
+    "orientation": "land",
+    "image_path": "https://static.gamezop.io/HkBWwMUFOye/square.png"
+  },
+  {
+    "name":   "Sway Bay",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/B1PMIp4XCe",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/B1PMIp4XCe/square.png"
+  },
+  {
+    "name":  "Odd One Out",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/Bk4ML6470x",
+    "orientation": "land",
+    "image_path": "https://static.gamezop.io/Bk4ML6470x/square.png"
+  },
+  {
+    "name":   "Rope Ninja",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/r10-NLT86bx",
+    "orientation": "land",
+    "image_path": "https://static.gamezop.io/r10-NLT86bx/square.png"
+  },
+  {
+    "name":  "Alfy",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/BJAqNMC7T",
+    "orientation": "land",
+    "image_path": "https://static.gamezop.io/BJAqNMC7T/square.png"
+  },
+  {
+    "name": "Sea Lion Act",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/SyQZs6nzueW",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/SyQZs6nzueW/square.png"
+  },
+  {
+    "name":   "Mallow Dash",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/S1gGrw64wY",
+    "orientation": "land",
+    "image_path": "https://static.gamezop.io/S1gGrw64wY/square.png"
+  },
+  {
+    "name":   "Sneaky Snack",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/41DxMOkGZ5g",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/41DxMOkGZ5g/square.png"
+  },
+  {
+    "name":   "Super Sprint",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/HyV_Nm-kK",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/HyV_Nm-kK/square.png"
+  }
+]

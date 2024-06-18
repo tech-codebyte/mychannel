@@ -1,0 +1,57 @@
+[
+  {
+    "name":  "Biggy Race",
+    "url": "https://m.shtoss.com/game/biggy-race/index.html",
+    "orientation": "land",
+    "image_path": "https://s.h5games.online/images/biggy-race.jpg"
+  },
+  {
+    "name":  "2 Cars",
+    "url": "https://play.famobi.com/2cars/A-432OH",
+    "orientation": "port",
+    "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/2CarsTeaser.jpg"
+  },
+  {
+    "name":  "Parking Passion",
+    "url": "https://play.famobi.com/parking-passion/A-432OH",
+    "orientation": "port",
+    "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/ParkingPassionTeaser.jpg"
+  },
+  {
+    "name":  "Drift Racing",
+    "url": "https://play.famobi.com/drift-cup-racing/A-432OH",
+    "orientation": "port",
+    "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/DriftCupRacingTeaser.jpg"
+  },
+   {
+    "name":  "Retro Speed",
+    "url": "https://m.shtoss.com/game/retro-speed-2/index.html",
+    "orientation": "port",
+    "image_path": "https://s.h5games.online/images/retro-speed-2.jpg"
+  },
+   {
+    "name":  "Circuit Drifter",
+    "url": "https://m.shtoss.com/game/circuit-drifter/index.html",
+    "orientation": "port",
+    "image_path": "https://s.h5games.online/images/circuit-drifter.jpg"
+  },
+  {
+    "name":    "Speed",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/rkwCYBZuV",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/rkwCYBZuV/square.png"
+  },   
+ {
+    "name":    "Rafting Adven",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/4JcZiV3XWql",
+    "orientation": "port",
+    "image_path": "https://static.gamezop.io/4JcZiV3XWql/square.png"
+  },
+   {
+    "name": "Lane Battle",
+    "url": "https://hjtgdhhefjx.play.gamezop.com/g/4kZgf_1z-9l",
+    "orientation": "land",
+    "image_path": "https://static.gamezop.io/4kZgf_1z-9l/square.png"
+  }
+  
+]
