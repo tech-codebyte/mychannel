@@ -18,6 +18,18 @@
     "image_path": "https://static.gamezop.io/UYiznUAya/square.png"
   },
   {
+    "name":  "Toilet Run",
+    "url": "https://play.famobi.com/toilet-run/A-432OH",
+    "orientation": "port",
+    "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/Toilet_RunTeaser.jpg"
+  },
+  {
+    "name":  "Cut The Rope",
+    "url": "https://play.famobi.com/cut-the-rope/A-432OH",
+    "orientation": "port",
+    "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/CutTheRopeTeaser.jpg"
+  },
+  {
     "name":  "Crowd Run 3D",
     "url": "https://play.famobi.com/crowd-run-3d/A-432OH",
     "orientation": "port",
@@ -106,12 +118,6 @@
     "url": "https://play.famobi.com/moto-x3m-pool-party/A-432OH",
     "orientation": "land",
     "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/MotoX3mPoolPartyTeaser.jpg"
-  },
-   {
-    "name":  "Brick Breaker",
-    "url": "https://www.atmegame.com/games/brick-breaker-bash?utm_source=Gameshubk91u&utm_medium=Gameshubk91u",
-    "orientation": "port",
-    "image_path": "https://games.ndroidapps.com/thumbnails/6576_slide.jpg"
   },
    {
     "name": "Word Finder",
