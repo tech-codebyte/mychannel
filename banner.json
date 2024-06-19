@@ -7,7 +7,7 @@
     "msb": "1",
     "info": "Product detail here",
     "button": "Play Now",
-    "image_path": "https://tech-codebyte.github.io/mychannel/image.png"
+    "image_path": "https://tech-codebyte.github.io/mychannel/image4.png"
   },
    {
     "name":  "App Promotion",
@@ -16,7 +16,7 @@
     "orientation": "port",
     "info": "App detail here",
     "button": "Download Now",
-    "image_path": "https://tech-codebyte.github.io/mychannel/image.png"
+    "image_path": "https://tech-codebyte.github.io/mychannel/image3.png"
   },
   {
     "name":  "Affiliate Link",
@@ -25,7 +25,7 @@
     "orientation": "port",
      "info": "Product detail here",
     "button": "Buy Now",
-    "image_path": "https://tech-codebyte.github.io/mychannel/image.png"
+    "image_path": "https://tech-codebyte.github.io/mychannel/image2.png"
   },
   {
     "name":  "Link Promotion",
@@ -34,7 +34,16 @@
     "orientation": "port",
      "info": "Link details here",
     "button": "Open",
-    "image_path": "https://tech-codebyte.github.io/mychannel/image.png"
+    "image_path": "https://tech-codebyte.github.io/mychannel/image4.png"
+  },
+   {
+    "name":  "App 2 Promotion",
+    "description": "sponsored | Must Try ",
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox",
+    "orientation": "port",
+     "info": "App description here",
+    "button": "Download",
+    "image_path": "https://tech-codebyte.github.io/mychannel/image3.png"
   },
    {
     "name":  "Product 2",
@@ -43,15 +52,6 @@
     "orientation": "port",
     "info": "Product detail here",
     "button": "Open Now",
-    "image_path": "https://tech-codebyte.github.io/mychannel/image.png"
-  },
-  {
-    "name":  "App 2 Promotion",
-    "description": "sponsored | Must Try ",
-    "url": "https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox",
-    "orientation": "port",
-     "info": "App description here",
-    "button": "Download",
-    "image_path": "https://tech-codebyte.github.io/mychannel/image.png"
+    "image_path": "https://tech-codebyte.github.io/mychannel/image2.png"
   }
-]
+ ]
