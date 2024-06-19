@@ -37,15 +37,6 @@
     "image_path": "https://tech-codebyte.github.io/mychannel/image4.png"
   },
    {
-    "name":  "App 2 Promotion",
-    "description": "sponsored | Must Try ",
-    "url": "https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox",
-    "orientation": "port",
-     "info": "App description here",
-    "button": "Download",
-    "image_path": "https://tech-codebyte.github.io/mychannel/image3.png"
-  },
-   {
     "name":  "Product 2",
     "description": "sponsored",
     "url": "https://www.google.com",
@@ -53,5 +44,14 @@
     "info": "Product detail here",
     "button": "Open Now",
     "image_path": "https://tech-codebyte.github.io/mychannel/image2.png"
+  },
+   {
+    "name":  "App 2 Promotion",
+    "description": "sponsored | Must Try ",
+    "url": "https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox",
+    "orientation": "port",
+     "info": "App description here",
+    "button": "Download",
+    "image_path": "https://tech-codebyte.github.io/mychannel/image3.png"
   }
  ]
