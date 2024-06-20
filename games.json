@@ -11,17 +11,6 @@
     "guid": "dora-fishing"
   },
   {
-    "title": "1+2=3",
-    "thumb": "https://s.h5games.online/images/1-2-3.jpg",
-    "link": "https://g.h5games.online/1-2-3/",
-    "description": "1+2=3 is a simple math game for everybody. How fast can you add and subtract? Are you smarter than a 1st grader?",
-    "category": "puzzles",
-    "tags": "Timing,Kids,Highscore,Fun,Educational,Brain",
-    "width": "640",
-    "height": "960",
-    "guid": "1-2-3"
-  },
-  {
     "title": "Don't Crash",
     "thumb": "https://s.h5games.online/images/don-t-crash.jpg",
     "link": "https://g.h5games.online/don-t-crash/",
@@ -42,17 +31,6 @@
     "width": "720",
     "height": "1280",
     "guid": "jumper-jam"
-  },
-  {
-    "title": "Super Racing",
-    "thumb": "https://s.h5games.online/images/super-racing.jpg",
-    "link": "https://g.h5games.online/super-racing/",
-    "description": "Driving your car to pass all obstacles and collect coins in the game. Click or Tap to control.",
-    "category": "racing",
-    "tags": "Cars,Avoid,Skill",
-    "width": "640",
-    "height": "1136",
-    "guid": "super-racing"
   },
   {
     "title": "Pinball",
@@ -99,17 +77,6 @@
     "guid": "let-s-park"
   },
   {
-    "title": "Arrow in Your Knee",
-    "thumb": "https://s.h5games.online/images/arrow-in-your-knee.jpg",
-    "link": "https://g.h5games.online/arrow-in-your-knee/",
-    "description": "If you don't want to get arrows in your knee, just keep away from them then you will get higher score.",
-    "category": "other",
-    "tags": "Skill,Highscore,Avoid",
-    "width": "960",
-    "height": "640",
-    "guid": "arrow-in-your-knee"
-  },
-  {
     "title": "FooFoo, Go! Run! Jump!",
     "thumb": "https://s.h5games.online/images/foofoo-go-run-jump-.jpg",
     "link": "https://g.h5games.online/foofoo-go-run-jump-/",
@@ -141,28 +108,6 @@
     "width": "768",
     "height": "1024",
     "guid": "katana-fruits"
-  },
-  {
-    "title": "Annoying Fly",
-    "thumb": "https://s.h5games.online/images/annoying-fly.jpg",
-    "link": "https://g.h5games.online/annoying-fly/",
-    "description": "An awesome mobile game for android mobile, iPhone, iPad and etc.! Fly as long as you can but don't let the hands touch you. How far can you make it?",
-    "category": "other",
-    "tags": "Skill,Avoid,Action,Highscore",
-    "width": "625",
-    "height": "950",
-    "guid": "annoying-fly"
-  },
-  {
-    "title": "Zombie Invasion",
-    "thumb": "https://s.h5games.online/images/zombie-invasion.jpg",
-    "link": "https://g.h5games.online/zombie-invasion/",
-    "description": "Zombie Invasion is a HTML5 survival game. Survive the zombie horde as long as possible avoiding them from crossing the bridge. Each zombie that escapes you damages your energy bar. Be careful not to hit the runaway survivals, in this way you’ll get extra energy.",
-    "category": "shooters",
-    "tags": "Zombie,Timing,Simulation,Boys",
-    "width": "1136",
-    "height": "640",
-    "guid": "zombie-invasion"
   },
   {
     "title": "Fast Circles",
@@ -220,17 +165,6 @@
     "guid": "rearrange-letters"
   },
   {
-    "title": "Make Them Fall",
-    "thumb": "https://s.h5games.online/images/make-them-fall.jpg",
-    "link": "https://g.h5games.online/make-them-fall/",
-    "description": "Make Them Fall is an challenging distance game that requires multitasking capability. Control 2 or more falling stickmen and let them fall as far as possible without touching any spike. Enjoy!",
-    "category": "other",
-    "tags": "Skill,Avoid,Highscore",
-    "width": "640",
-    "height": "960",
-    "guid": "make-them-fall"
-  },
-  {
     "title": "Twins",
     "thumb": "https://s.h5games.online/images/twins.jpg",
     "link": "https://g.h5games.online/twins/",
@@ -240,17 +174,6 @@
     "width": "720",
     "height": "1280",
     "guid": "twins"
-  },
-  {
-    "title": "Freaking Math",
-    "thumb": "https://s.h5games.online/images/freaking-math.jpg",
-    "link": "https://g.h5games.online/freaking-math/",
-    "description": "Freaking Math can make you freaking mad! You have only one second to choose correct answer. Reach high score!!!",
-    "category": "puzzles",
-    "tags": "Timing,Highscore,Family,Educational,Brain",
-    "width": "640",
-    "height": "960",
-    "guid": "freaking-math"
   },
   {
     "title": "2 Cars",
@@ -275,17 +198,6 @@
     "guid": "cowboy-shoot-zombies"
   },
   {
-    "title": "Circle Rush",
-    "thumb": "https://s.h5games.online/images/circle-rush.jpg",
-    "link": "https://g.h5games.online/circle-rush/",
-    "description": "This is a html5 version of the popular mobile game Circle Rush. It is a beautiful, simple and fun game that will make you play for hours. Tap the screen to control your ball, dodge those red balls and destroy your own highscore.",
-    "category": "other",
-    "tags": "Avoid",
-    "width": "640",
-    "height": "960",
-    "guid": "circle-rush"
-  },
-  {
     "title": "Fighting Aircraft Battle",
     "thumb": "https://s.h5games.online/images/fighting-aircraft-battle.jpg",
     "link": "https://g.h5games.online/fighting-aircraft-battle/",
@@ -297,17 +209,6 @@
     "guid": "fighting-aircraft-battle"
   },
   {
-    "title": "Beer Rush",
-    "thumb": "https://s.h5games.online/images/beer-rush.jpg",
-    "link": "https://g.h5games.online/beer-rush/",
-    "description": "The goal of the mobile game is to serve beers to customers who move towards you, the barman. If any customer reaches the end of the bar or a returning beer cup is not caught, you lose a life.",
-    "category": "other",
-    "tags": "Action,Boys,Timing",
-    "width": "1136",
-    "height": "640",
-    "guid": "beer-rush"
-  },
-  {
     "title": "zBall",
     "thumb": "https://s.h5games.online/images/zball.jpg",
     "link": "https://g.h5games.online/zball/",
@@ -317,17 +218,6 @@
     "width": "720",
     "height": "1280",
     "guid": "zball"
-  },
-  {
-    "title": "Jumper Frog",
-    "thumb": "https://s.h5games.online/images/jumper-frog.jpg",
-    "link": "https://g.h5games.online/jumper-frog/",
-    "description": "Jumper Frog is a classic traffic survival game inspired by Frogger. Guide 5 frogs from the bottom to the top into one of the 5 coves. Can you survive the deadly traffic?",
-    "category": "other",
-    "tags": "Skill,Boys,Avoid,Animals",
-    "width": "640",
-    "height": "1136",
-    "guid": "jumper-frog"
   },
   {
     "title": "Alien Galaxy War",
@@ -429,28 +319,6 @@
     "guid": "ultimate-tic-tac-toe"
   },
   {
-    "title": "Infinity Space",
-    "thumb": "https://s.h5games.online/images/infinity-space.jpg",
-    "link": "https://g.h5games.online/infinity-space/",
-    "description": "Move the block and make it combine with other blocks. Be careful! Don't hit the rocks!",
-    "category": "other",
-    "tags": "Skill,Boys,Avoid",
-    "width": "870",
-    "height": "489",
-    "guid": "infinity-space"
-  },
-  {
-    "title": "Brave Triangle",
-    "thumb": "https://s.h5games.online/images/brave-triangle.jpg",
-    "link": "https://g.h5games.online/brave-triangle/",
-    "description": "Help brave triangle to escape the maze! Be careful! Don't bump into obstacles!",
-    "category": "other",
-    "tags": "Skill,Highscore,Fun,Avoid",
-    "width": "275",
-    "height": "489",
-    "guid": "brave-triangle"
-  },
-  {
     "title": "School Boy Warrior",
     "thumb": "https://s.h5games.online/images/school-boy-warrior.jpg",
     "link": "https://g.h5games.online/school-boy-warrior/",
@@ -495,72 +363,6 @@
     "guid": "tiny-rifles"
   },
   {
-    "title": "Puzzle Animal Mania",
-    "thumb": "https://s.h5games.online/images/puzzle-animal-mania.jpg",
-    "link": "https://g.h5games.online/puzzle-animal-mania/",
-    "description": "Move all animal boxes to the gray place.",
-    "category": "puzzles",
-    "tags": "Fun,Brain,Animals",
-    "width": "275",
-    "height": "489",
-    "guid": "puzzle-animal-mania"
-  },
-  {
-    "title": "Pin Ball",
-    "thumb": "https://s.h5games.online/images/pin-ball.jpg",
-    "link": "https://g.h5games.online/pin-ball/",
-    "description": "Tap screen left or right make the ball jump, get the gem and get high score!",
-    "category": "other",
-    "tags": "Skill,Highscore,Fun",
-    "width": "432",
-    "height": "768",
-    "guid": "pin-ball"
-  },
-  {
-    "title": "Planet Explorer",
-    "thumb": "https://s.h5games.online/images/planet-explorer.jpg",
-    "link": "https://g.h5games.online/planet-explorer/",
-    "description": "Touch screen to travel between planets.",
-    "category": "adventures",
-    "tags": "Timing,Simulation,Highscore,Boys",
-    "width": "275",
-    "height": "489",
-    "guid": "planet-explorer"
-  },
-  {
-    "title": "Painting Road",
-    "thumb": "https://s.h5games.online/images/painting-road.jpg",
-    "link": "https://g.h5games.online/painting-road/",
-    "description": "Swipe your finger to paint the road, but not to drop!",
-    "category": "adventures",
-    "tags": "Painting,Highscore,Endless Runner,Avoid",
-    "width": "869",
-    "height": "489",
-    "guid": "painting-road"
-  },
-  {
-    "title": "Circle Pong",
-    "thumb": "https://s.h5games.online/images/circle-pong.jpg",
-    "link": "https://g.h5games.online/circle-pong/",
-    "description": "Keep the ball bouncing inside the circle. Click buttons or press right and left arrows on keyboard to control.",
-    "category": "puzzles",
-    "tags": "Highscore",
-    "width": "275",
-    "height": "489",
-    "guid": "circle-pong"
-  },
-  {
-    "title": "Bouncing Dot",
-    "thumb": "https://s.h5games.online/images/bouncing-dot.jpg",
-    "link": "https://g.h5games.online/bouncing-dot/",
-    "description": "Tap to rotate the hexagon to the right color before the ball lands. How high can your score gets?",
-    "category": "puzzles",
-    "tags": "Skill,Matching,Highscore,Fun",
-    "width": "275",
-    "height": "489",
-    "guid": "bouncing-dot"
-  },
-  {
     "title": "Zombie Uprising",
     "thumb": "https://s.h5games.online/images/zombie-uprising.jpg",
     "link": "https://g.h5games.online/zombie-uprising/",
@@ -570,17 +372,6 @@
     "width": "720",
     "height": "1280",
     "guid": "zombie-uprising"
-  },
-  {
-    "title": "Chase Racing Cars",
-    "thumb": "https://s.h5games.online/images/chase-racing-cars.jpg",
-    "link": "https://g.h5games.online/chase-racing-cars/",
-    "description": "Beware of other cars and collect as much as coin you can.",
-    "category": "racing",
-    "tags": "Highscore,Cars,Avoid",
-    "width": "768",
-    "height": "1024",
-    "guid": "chase-racing-cars"
   },
   {
     "title": "Kids Coloring book",
@@ -748,17 +539,6 @@
     "guid": "ultimate-swish"
   },
   {
-    "title": "Cake Connect",
-    "thumb": "https://s.h5games.online/images/cake-connect.jpg",
-    "link": "https://g.h5games.online/cake-connect/",
-    "description": "Cakes became alive after the master's departure. They want to play a game. They're going to jump on the level area with little time. And if cakes leave level area they die. Do you want to help them?",
-    "category": "other",
-    "tags": "Timing,Physics,Kids,Highscore,Fun,Cute,Cartoon,Brain,Platformer",
-    "width": "640",
-    "height": "960",
-    "guid": "cake-connect"
-  },
-  {
     "title": "Find the Differences",
     "thumb": "https://s.h5games.online/images/find-the-differences.jpg",
     "link": "https://g.h5games.online/find-the-differences/",
@@ -834,28 +614,6 @@
     "width": "728",
     "height": "980",
     "guid": "combat-squad"
-  },
-  {
-    "title": "Greedy Rabbit",
-    "thumb": "https://s.h5games.online/images/greedy-rabbit.jpg",
-    "link": "https://g.h5games.online/greedy-rabbit/",
-    "description": "Greedy Rabbit is dynamic and funny arcade game. Find and eat all vegetables and go out from level.",
-    "category": "other",
-    "tags": "Skill,Animals,Action",
-    "width": "1024",
-    "height": "640",
-    "guid": "greedy-rabbit"
-  },
-  {
-    "title": "Frog Super Bubbles",
-    "thumb": "https://s.h5games.online/images/frog-super-bubbles.jpg",
-    "link": "https://g.h5games.online/frog-super-bubbles/",
-    "description": "Frog Super Bubble Is a simple match game. Shoot in 3 or more balls with Same color and get high score.",
-    "category": "shooters",
-    "tags": "Matching,Highscore,Bubble Shooter",
-    "width": "640",
-    "height": "960",
-    "guid": "frog-super-bubbles"
   },
   {
     "title": "Mad Shark",
@@ -1166,17 +924,6 @@
     "guid": "yiv-merry-xmas"
   },
   {
-    "title": "Mini Jumper",
-    "thumb": "https://s.h5games.online/images/mini-jumper.jpg",
-    "link": "https://g.h5games.online/mini-jumper/",
-    "description": "You need to jump between platforms to collect stars to complete each level. Touch or mouse click to control.",
-    "category": "other",
-    "tags": "Skill,Kids,Boys",
-    "width": "960",
-    "height": "640",
-    "guid": "mini-jumper"
-  },
-  {
     "title": "Grub Runner",
     "thumb": "https://s.h5games.online/images/grub-runner.jpg",
     "link": "https://g.h5games.online/grub-runner/",
@@ -1219,39 +966,6 @@
     "width": "668",
     "height": "1024",
     "guid": "jingle-bells"
-  },
-  {
-    "title": "Forest Monsters",
-    "thumb": "https://s.h5games.online/images/forest-monsters.jpg",
-    "link": "https://g.h5games.online/forest-monsters/",
-    "description": "Forest Monsters is an adventurer HTML5 game. You play a role of a powerful wizard on his quest to get into a deep, haunted forest and fight the evil that looms there. Combine deadly spells from the runes scattered on the board and beat monsters that guard the forest. Enjoy!",
-    "category": "puzzles",
-    "tags": "Skill,Matching,Kids,Boys,Animals,Adventure",
-    "width": "960",
-    "height": "640",
-    "guid": "forest-monsters"
-  },
-  {
-    "title": "Spice Quest",
-    "thumb": "https://s.h5games.online/images/spice-quest.jpg",
-    "link": "https://g.h5games.online/spice-quest/",
-    "description": "Spice Quest is a peri peri snack wrap adventure game. Clear a path to the peri peri pot to complete the level. Tap to place spice barrels to clear a path. Some blocks are stronger than others. Use spice pots to create chain reactions. Don't run out of spice barrels - use them wisely. Uncover all the hidden gems to perfect the level. Enjoy!  ",
-    "category": "puzzles",
-    "tags": "Strategy,Kids,Highscore,Fun",
-    "width": "1066",
-    "height": "600",
-    "guid": "spice-quest"
-  },
-  {
-    "title": "Vampyre: World at stake",
-    "thumb": "https://s.h5games.online/images/vampyre-world-at-stake.jpg",
-    "link": "https://g.h5games.online/vampyre-world-at-stake/",
-    "description": "A turn based battle Html 5 game based on the world of Vampyre. A menacing ancient evil is enslaving the country. You are the chosen hero to avenge the people and vanquish the evil once and for all! Visit one of the four enemy camps and defeat the enemy. Before they reach the capital city of Nevermore.",
-    "category": "adventures",
-    "tags": "Zombie,Strategy,Kids,Boys,Action",
-    "width": "1200",
-    "height": "600",
-    "guid": "vampyre-world-at-stake"
   },
   {
     "title": "Arcade Golf",
@@ -1307,17 +1021,6 @@
     "width": "1920",
     "height": "1080",
     "guid": "scared-silly"
-  },
-  {
-    "title": "Jelly Splash",
-    "thumb": "https://s.h5games.online/images/jelly-splash.jpg",
-    "link": "https://g.h5games.online/jelly-splash/",
-    "description": "Jelly Splash is a cute and interesting online matching game, your aim in this game is find jellies in same colors and delete them from the screen. At least 3 blocks can delete and if you delete many blocks in one time, you will get useful items. So many cute jellies are waiting for you, come here and try this game!",
-    "category": "puzzles",
-    "tags": "Matching,Kids,Cute,Boys",
-    "width": "640",
-    "height": "960",
-    "guid": "jelly-splash"
   },
   {
     "title": "No Arm Done",
@@ -1529,39 +1232,6 @@
     "guid": "farm-pop-"
   },
   {
-    "title": "Unlock Blox",
-    "thumb": "https://s.h5games.online/images/unlock-blox.jpg",
-    "link": "https://g.h5games.online/unlock-blox/",
-    "description": "Do you want to try some new interesting puzzle games? Today we prepare another game for you, the Unlock Blox. The goal is to unblock the yellow block of the board. Pass all levels and have a good time!",
-    "category": "puzzles",
-    "tags": "Kids,Brain,Boys",
-    "width": "384",
-    "height": "600",
-    "guid": "unlock-blox"
-  },
-  {
-    "title": "Super Box",
-    "thumb": "https://s.h5games.online/images/super-box.jpg",
-    "link": "https://g.h5games.online/super-box/",
-    "description": "Do you want to test your reaction? Super Box is such an arcade game can make you react faster. You need to tap the right color to make the block jump, if your response time is too long, you will lose. Hurry up!",
-    "category": "other",
-    "tags": "Kids,Highscore,Boys,Arcade",
-    "width": "640",
-    "height": "1136",
-    "guid": "super-box"
-  },
-  {
-    "title": "Jump Box Hero",
-    "thumb": "https://s.h5games.online/images/jump-box-hero.jpg",
-    "link": "https://g.h5games.online/jump-box-hero/",
-    "description": "Are you tired of those complex gameplays and want to try a simple game? Then this game is just suitable for you. In this game you just need to tap the screen to make the box jump and avoid those deadly obstacles. See how many scores you can get!",
-    "category": "other",
-    "tags": "Kids,Highscore,Boys,Avoid,Arcade",
-    "width": "640",
-    "height": "1136",
-    "guid": "jump-box-hero"
-  },
-  {
     "title": "Mortar Watermelon",
     "thumb": "https://s.h5games.online/images/mortar-watermelon.jpg",
     "link": "https://g.h5games.online/mortar-watermelon/",
@@ -1615,17 +1285,6 @@
     "width": "768",
     "height": "1400",
     "guid": "guns-and-blocks"
-  },
-  {
-    "title": "Tower Challenge",
-    "thumb": "https://s.h5games.online/images/tower-challenge.jpg",
-    "link": "https://g.h5games.online/tower-challenge/",
-    "description": "Tower Challenge, as it says, is a challenge of building towers. Drop blocks, stack as many as you can to rack up points before the time runs out. Try to build as high as you can. Have a good time!",
-    "category": "other",
-    "tags": "Kids,Highscore,Boys,Arcade",
-    "width": "640",
-    "height": "960",
-    "guid": "tower-challenge"
   },
   {
     "title": "Jewel Hunt",
@@ -1716,17 +1375,6 @@
     "guid": "finger-driver-online"
   },
   {
-    "title": "Pocket Jump",
-    "thumb": "https://s.h5games.online/images/pocket-jump.jpg",
-    "link": "https://g.h5games.online/pocket-jump/",
-    "description": "Pocket Jump is a fast-paced, high score game, in this game you need to help this cute block jump to higher place, if you react slowly, you will lose. See how many points you can get. Have a good time!",
-    "category": "adventures",
-    "tags": "Platformer,Kids,Highscore,Boys,Arcade",
-    "width": "640",
-    "height": "1136",
-    "guid": "pocket-jump"
-  },
-  {
     "title": "Rescuers",
     "thumb": "https://s.h5games.online/images/rescuers.jpg",
     "link": "https://g.h5games.online/rescuers/",
@@ -1782,17 +1430,6 @@
     "guid": "toto-adventure"
   },
   {
-    "title": "Speedy Boat",
-    "thumb": "https://s.h5games.online/images/speedy-boat.jpg",
-    "link": "https://g.h5games.online/speedy-boat/",
-    "description": "Do you like the sea? So you like driving a boat and drifting on the sea? If you come here and try this game, your dream will come true! Control your car and avoid other boats as fast as you can. See how far you can reach!",
-    "category": "adventures",
-    "tags": "Kids,Highscore,Boys,Avoid",
-    "width": "640",
-    "height": "1136",
-    "guid": "speedy-boat"
-  },
-  {
     "title": "2Cars Adventure",
     "thumb": "https://s.h5games.online/images/2cars-adventure.jpg",
     "link": "https://g.h5games.online/2cars-adventure/",
@@ -1813,17 +1450,6 @@
     "width": "1280",
     "height": "720",
     "guid": "steam-trucker"
-  },
-  {
-    "title": "Gems Glow",
-    "thumb": "https://s.h5games.online/images/gems-glow.jpg",
-    "link": "https://g.h5games.online/gems-glow/",
-    "description": "Hey, welcome to our new puzzle game Gems Glow! The aim of the game is to connect all matching gems and cover the entire board. There are 60 levels in total, you will never get bored when you see these beautiful gems. Have fun!",
-    "category": "puzzles",
-    "tags": "Matching,Kids,Boys",
-    "width": "640",
-    "height": "960",
-    "guid": "gems-glow"
   },
   {
     "title": "Hot Wheels",
@@ -1881,17 +1507,6 @@
     "guid": "neon-ball-3d"
   },
   {
-    "title": "Kunai Throw",
-    "thumb": "https://s.h5games.online/images/kunai-throw.jpg",
-    "link": "https://g.h5games.online/kunai-throw/",
-    "description": "A knife is not just a weapon, sometimes we can use it to kill time. Kunai Throw is such a game. In this game we need to throw knives and hit rotating woods. The wood will rotate faster and faster. Try to follow the speed!",
-    "category": "other",
-    "tags": "Kids,Highscore,Boys,Arcade",
-    "width": "640",
-    "height": "960",
-    "guid": "kunai-throw"
-  },
-  {
     "title": "Go Ball",
     "thumb": "https://s.h5games.online/images/go-ball.jpg",
     "link": "https://g.h5games.online/go-ball/",
@@ -1901,17 +1516,6 @@
     "width": "720",
     "height": "1280",
     "guid": "go-ball"
-  },
-  {
-    "title": "Dots Pong",
-    "thumb": "https://s.h5games.online/images/dots-pong.jpg",
-    "link": "https://g.h5games.online/dots-pong/",
-    "description": "Dots Pong is a pure color Ping Pong game, it only has white and black color. You need to play Ping Pong use these two colors. When ball's color is the same with dots on two sides, it will bounce, or you will lose. Have fun!",
-    "category": "other",
-    "tags": "Kids,Highscore,Boys,Arcade",
-    "width": "640",
-    "height": "1136",
-    "guid": "dots-pong"
   },
   {
     "title": "Tangram",
@@ -1956,17 +1560,6 @@
     "width": "720",
     "height": "1280",
     "guid": "block-shooter"
-  },
-  {
-    "title": "Penalty Challenge",
-    "thumb": "https://s.h5games.online/images/penalty-challenge.jpg",
-    "link": "https://g.h5games.online/penalty-challenge/",
-    "description": "Football is one of the most popular sport in the world, if you want to enjoy this sport, now we will introduce a new game for you, the Penalty Challenge! In this game you can act as a football player and join some matches, don't let your opponents get score is your goal. Have fun!",
-    "category": "sports",
-    "tags": "Kids,Highscore,Football,Boys",
-    "width": "1280",
-    "height": "640",
-    "guid": "penalty-challenge"
   },
   {
     "title": "Ice Cream",
@@ -2046,17 +1639,6 @@
     "guid": "dunk-line"
   },
   {
-    "title": "Desert Run",
-    "thumb": "https://s.h5games.online/images/desert-run.jpg",
-    "link": "https://g.h5games.online/desert-run/",
-    "description": "This car lost in a desert and it wants to find a way to get out this dangerous place. Help it control the direction to avoid those deadly obstacles. You are the only person can save it, help!",
-    "category": "adventures",
-    "tags": "Kids,Highscore,Cars,Boys,Avoid,Arcade",
-    "width": "640",
-    "height": "960",
-    "guid": "desert-run"
-  },
-  {
     "title": "Circuit Drifter",
     "thumb": "https://s.h5games.online/images/circuit-drifter.jpg",
     "link": "https://g.h5games.online/circuit-drifter/",
@@ -2077,17 +1659,6 @@
     "width": "1920",
     "height": "1080",
     "guid": "gold-miner-jack"
-  },
-  {
-    "title": "Space Speed",
-    "thumb": "https://s.h5games.online/images/space-speed.jpg",
-    "link": "https://g.h5games.online/space-speed/",
-    "description": "Test your speed in this mysterious space! There are many obstacles on your road, you need to use your mouse to change your position and pass every obstacle in the hole. Try to react faster, enjoy Space Speed!",
-    "category": "other",
-    "tags": "Kids,Highscore,Endless Runner,Boys,Avoid",
-    "width": "432",
-    "height": "640",
-    "guid": "space-speed"
   },
   {
     "title": "Tripolygon",
@@ -2277,17 +1848,6 @@
     "guid": "flip-it"
   },
   {
-    "title": "Rolling Cheese",
-    "thumb": "https://s.h5games.online/images/rolling-cheese.jpg",
-    "link": "https://g.h5games.online/rolling-cheese/",
-    "description": "A cute mouse wants to eat cheese, but he needs to solve some difficulties to get the cheese. In this game you need to help him pass as many levels and get as much cheese as you can. Use your brain to enjoy our new game Rolling Cheese!",
-    "category": "puzzles",
-    "tags": "Kids,Cute,Brain,Boys,Animals",
-    "width": "1360",
-    "height": "640",
-    "guid": "rolling-cheese"
-  },
-  {
     "title": "Divide",
     "thumb": "https://s.h5games.online/images/divide.jpg",
     "link": "https://g.h5games.online/divide/",
@@ -2297,17 +1857,6 @@
     "width": "1024",
     "height": "768",
     "guid": "divide"
-  },
-  {
-    "title": "Flying Cat",
-    "thumb": "https://s.h5games.online/images/flying-cat.jpg",
-    "link": "https://g.h5games.online/flying-cat/",
-    "description": "As a cat, Tom's dream is always to fly to the higher place. He loves sky so much, so he creates a rocket by himself and prepares to start his adventure. But his fuel is not enough, he needs to upgrade his rocket again and again using the gold he gets from the sky. Legends never die, dreams always be there, good luck in flying cat!",
-    "category": "adventures",
-    "tags": "Kids,Highscore,Cute,Boys,Avoid,Animals",
-    "width": "640",
-    "height": "960",
-    "guid": "flying-cat"
   },
   {
     "title": "Slot Car Racing",
@@ -2352,17 +1901,6 @@
     "width": "1080",
     "height": "1920",
     "guid": "cube-jump"
-  },
-  {
-    "title": "Furious Road",
-    "thumb": "https://s.h5games.online/images/furious-road.jpg",
-    "link": "https://g.h5games.online/furious-road/",
-    "description": "Furious Road is a cool car shooting game. You drive your car on a road full of fire and molten lava, you need to survive in this hell as long as you can and kill your enemies. Avoid stones and broken cars, collect useful tools and buy new weapons to become more powerful. You will be the winner, good luck!",
-    "category": "shooters",
-    "tags": "Kids,Driving,Cars,Boys,Avoid",
-    "width": "640",
-    "height": "960",
-    "guid": "furious-road"
   },
   {
     "title": "2048 Merge",
@@ -2429,28 +1967,6 @@
     "width": "1080",
     "height": "1920",
     "guid": "two-dots"
-  },
-  {
-    "title": "Catch Dots",
-    "thumb": "https://s.h5games.online/images/catch-dots.jpg",
-    "link": "https://g.h5games.online/catch-dots/",
-    "description": "Catch dots, as it says, you need to catch all the dots falling from the sky. Find the right color same as the falling dots and change the position of them. You have to react fast or you will lose. Can you do that? Have a try!",
-    "category": "other",
-    "tags": "Matching,Kids,Highscore,Boys,Arcade",
-    "width": "640",
-    "height": "1136",
-    "guid": "catch-dots"
-  },
-  {
-    "title": "Flip Cube",
-    "thumb": "https://s.h5games.online/images/flip-cube.jpg",
-    "link": "https://g.h5games.online/flip-cube/",
-    "description": "Flip Cube is a fast-paced arcade highscore game. You need to react really fast if you want to get a good score in this game. Help this block avoid those deadly obstacles and go as far as you can. Call your friends and see who can do better. Have fun!",
-    "category": "other",
-    "tags": "Kids,Highscore,Boys,Avoid,Arcade",
-    "width": "640",
-    "height": "1136",
-    "guid": "flip-cube"
   },
   {
     "title": "Sokoboom",
@@ -2761,17 +2277,6 @@
     "guid": "pipe-mania"
   },
   {
-    "title": "Wheelie Bike",
-    "thumb": "https://s.h5games.online/images/wheelie-bike.jpg",
-    "link": "https://g.h5games.online/wheelie-bike/",
-    "description": "Wheelie Bike is an addictive game in which the rule is very simple. Press to make a wheelie, release to land. Your task is to master the skills of keeping the bike in balance. How long distance can you take? Challenge with your friends or yourself to create the best score Have fun.",
-    "category": "racing",
-    "tags": "Sports,Skill,Kids,Highscore,Boys,Arcade",
-    "width": "960",
-    "height": "600",
-    "guid": "wheelie-bike"
-  },
-  {
     "title": "Candy Forest",
     "thumb": "https://s.h5games.online/images/candy-forest.jpg",
     "link": "https://g.h5games.online/candy-forest/",
@@ -2869,17 +2374,6 @@
     "width": "1080",
     "height": "1920",
     "guid": "push-the-squares"
-  },
-  {
-    "title": "Tunnel Ball",
-    "thumb": "https://s.h5games.online/images/tunnel-ball.jpg",
-    "link": "https://g.h5games.online/tunnel-ball/",
-    "description": "In this dangerous tunnel, what you need to do is to survive as long as possible. Sounds simple, right? Let's see how long you can survive. This is not an ordinary tunnel. The tunnel will throw out many kinds of obstacles and you need to avoid them skillfully. Be careful and react fast, have fun!",
-    "category": "other",
-    "tags": "Kids,Highscore,Endless Runner,Boys,Avoid",
-    "width": "640",
-    "height": "1024",
-    "guid": "tunnel-ball"
   },
   {
     "title": "Slices",
@@ -3102,17 +2596,6 @@
     "guid": "extreme-followers"
   },
   {
-    "title": "Hit The Glow",
-    "thumb": "https://s.h5games.online/images/hit-the-glow.jpg",
-    "link": "https://g.h5games.online/hit-the-glow/",
-    "description": "Hit The Glow is a really cool arcade game, if you like neon things, don't miss this game. There are 4 different modes: classic, eliminate, expand and origin modes, you can choose the one you like and start your game. You need to shoot blue obstacles and avoid those red obstacles, finally shoot the blue ball to win the level. How many levels can you pass?",
-    "category": "other",
-    "tags": "Kids,Boys,Avoid,Arcade",
-    "width": "640",
-    "height": "1136",
-    "guid": "hit-the-glow"
-  },
-  {
     "title": "Jelly Merger",
     "thumb": "https://s.h5games.online/images/jelly-merger.jpg",
     "link": "https://g.h5games.online/jelly-merger/",
@@ -3122,28 +2605,6 @@
     "width": "1080",
     "height": "1920",
     "guid": "jelly-merger"
-  },
-  {
-    "title": "Piggy Night",
-    "thumb": "https://s.h5games.online/images/piggy-night.jpg",
-    "link": "https://g.h5games.online/piggy-night/",
-    "description": "This piggy lost in the terrifying night, he wants to escape from this place, but there are so many dangers on his road. He really needs your help! Tap on screen to move from one circle to another. Collect shield and speed power to become more powerful and go further. Can you save this piggy?",
-    "category": "other",
-    "tags": "Kids,Highscore,Cute,Boys,Avoid,Arcade,Animals",
-    "width": "640",
-    "height": "1136",
-    "guid": "piggy-night"
-  },
-  {
-    "title": "Pingu and Friends",
-    "thumb": "https://s.h5games.online/images/pingu-and-friends.jpg",
-    "link": "https://g.h5games.online/pingu-and-friends/",
-    "description": "This cute penguin and his friends live a happy life in this forest, but suddenly cold come and they need to go to a higher place to avoid cold. Tap on the screen to jump the character and keep balance on platforms, when you collect gold eggs, you can change the character. Let's see how high you can go!",
-    "category": "adventures",
-    "tags": "Platformer,Kids,Highscore,Cute,Boys,Arcade,Animals",
-    "width": "640",
-    "height": "1136",
-    "guid": "pingu-and-friends"
   },
   {
     "title": "Treze Basket",
@@ -3179,17 +2640,6 @@
     "guid": "ruin"
   },
   {
-    "title": "Dunk Slam",
-    "thumb": "https://s.h5games.online/images/dunk-slam.jpg",
-    "link": "https://g.h5games.online/dunk-slam/",
-    "description": "Dunk Slam is an addictive arcade score game, shoot your basketball into the basket is the only goal of you. Don't drop your ball and aim at the right position. If your ball fall, you need to start again. Are you a good basketball player? Prove it and create a new score!",
-    "category": "sports",
-    "tags": "Kids,Highscore,Boys,Basketball,Arcade",
-    "width": "640",
-    "height": "360",
-    "guid": "dunk-slam"
-  },
-  {
     "title": "Slalom Ski Simulator",
     "thumb": "https://s.h5games.online/images/slalom-ski-simulator.jpg",
     "link": "https://g.h5games.online/slalom-ski-simulator/",
@@ -3212,17 +2662,6 @@
     "guid": "connect-lines"
   },
   {
-    "title": "Piano For Kids Animal Sounds",
-    "thumb": "https://s.h5games.online/images/piano-for-kids-animal-sounds.jpg",
-    "link": "https://g.h5games.online/piano-for-kids-animal-sounds/",
-    "description": "Piano For Kids Animal Sounds is a music simulation game with 7 animals sound and 3 instruments sound. You can choose an animal and choose an instrument to hear the animal sound played by different instruments. This game is so suitable for kids, don't wait to play!",
-    "category": "other",
-    "tags": "Simulation,Kids,Fun,Educational,Cute,Boys,Animals",
-    "width": "960",
-    "height": "640",
-    "guid": "piano-for-kids-animal-sounds"
-  },
-  {
     "title": "Wrecked",
     "thumb": "https://s.h5games.online/images/wrecked.jpg",
     "link": "https://g.h5games.online/wrecked/",
@@ -3243,17 +2682,6 @@
     "width": "1280",
     "height": "720",
     "guid": "rob-runner"
-  },
-  {
-    "title": "Run Panda Run",
-    "thumb": "https://s.h5games.online/images/run-panda-run.jpg",
-    "link": "https://g.h5games.online/run-panda-run/",
-    "description": "This panda decides to challenge himself and run in the snow weather. He needs to jump over those obstacles and collect coins. The operation is simple, just tap the screen and the panda will jump. Come here to help this cute panda and try to get a high score!",
-    "category": "other",
-    "tags": "Kids,Highscore,Endless Runner,Cute,Boys,Avoid,Animals",
-    "width": "768",
-    "height": "1024",
-    "guid": "run-panda-run"
   },
   {
     "title": "Desconstruct",
@@ -3375,17 +2803,6 @@
     "width": "1280",
     "height": "720",
     "guid": "et-game"
-  },
-  {
-    "title": "Rugby Kicks",
-    "thumb": "https://s.h5games.online/images/rugby-kicks.jpg",
-    "link": "https://g.h5games.online/rugby-kicks/",
-    "description": "Here is an important competition about rugby, now you can choose a player you like and join this match! Grab the right time to shoot your ball and try to get a higher score. This game really needs some skills, keep practicing and you will win! Show your talent in rugby!",
-    "category": "sports",
-    "tags": "Kids,Highscore,Boys",
-    "width": "640",
-    "height": "1024",
-    "guid": "rugby-kicks"
   },
   {
     "title": "Circle Run",
@@ -3520,17 +2937,6 @@
     "guid": "alien-hunter-2"
   },
   {
-    "title": "Jump Red Square",
-    "thumb": "https://s.h5games.online/images/jump-red-square.jpg",
-    "link": "https://g.h5games.online/jump-red-square/",
-    "description": "Do you have a fast reaction? This game can test it! In this game you need to shhot your square to make it touch the pentagon, but be attention avoid the obstacles. See how many score you can get. Hope you can like it!",
-    "category": "other",
-    "tags": "Kids,Highscore,Boys,Arcade",
-    "width": "640",
-    "height": "1136",
-    "guid": "jump-red-square"
-  },
-  {
     "title": "Christmas Sweeper",
     "thumb": "https://s.h5games.online/images/christmas-sweeper.jpg",
     "link": "https://g.h5games.online/christmas-sweeper/",
@@ -3540,17 +2946,6 @@
     "width": "720",
     "height": "1280",
     "guid": "christmas-sweeper"
-  },
-  {
-    "title": "Super Speed Runner",
-    "thumb": "https://s.h5games.online/images/super-speed-runner.jpg",
-    "link": "https://g.h5games.online/super-speed-runner/",
-    "description": "Super Speed Runner is an online running and jumping game, in this game you need to control a block to run in a dangerous place, if you drop down, you will lose. Catch the right moment and survive for longer time. Enjoy it!",
-    "category": "other",
-    "tags": "Kids,Highscore,Boys,Arcade",
-    "width": "1136",
-    "height": "640",
-    "guid": "super-speed-runner"
   },
   {
     "title": "Running Santa",
@@ -3564,28 +2959,6 @@
     "guid": "running-santa"
   },
   {
-    "title": "Mannequin Head",
-    "thumb": "https://s.h5games.online/images/mannequin-head.jpg",
-    "link": "https://g.h5games.online/mannequin-head/",
-    "description": "Mannequin Head is a fast-paced arecade online game. In this game you need to jump before the platform come and stand on the platform so you can jump to higher place. Remember to collect diamonds. Enjoy!",
-    "category": "other",
-    "tags": "Kids,Highscore,Boys,Arcade",
-    "width": "640",
-    "height": "1136",
-    "guid": "mannequin-head"
-  },
-  {
-    "title": "Stickyman Run",
-    "thumb": "https://s.h5games.online/images/stickyman-run.jpg",
-    "link": "https://g.h5games.online/stickyman-run/",
-    "description": "A dark place often make us feel terrible, this time our main character is a dark stickyman, he wants free, he wants alive, but now he is in danger. Help him survive in this place by click him to change his road. Never give up, you can do it!",
-    "category": "other",
-    "tags": "Kids,Highscore,Boys,Avoid,Arcade",
-    "width": "1136",
-    "height": "640",
-    "guid": "stickyman-run"
-  },
-  {
     "title": "Monster Track",
     "thumb": "https://s.h5games.online/images/monster-track.jpg",
     "link": "https://g.h5games.online/monster-track/",
@@ -3595,17 +2968,6 @@
     "width": "1280",
     "height": "720",
     "guid": "monster-track"
-  },
-  {
-    "title": "Impossible Lite Dash",
-    "thumb": "https://s.h5games.online/images/impossible-lite-dash.jpg",
-    "link": "https://g.h5games.online/impossible-lite-dash/",
-    "description": "Impossible Lite Dash – Playing on the reaction to you , test your abilities! Play and test your reaction, thousands of fans fell in love with the game! In this game you need to tap the screen or use your mouse to control your block avoid obstacles, you have only seconds to react, good luck!",
-    "category": "other",
-    "tags": "Kids,Highscore,Boys,Avoid,Arcade",
-    "width": "640",
-    "height": "960",
-    "guid": "impossible-lite-dash"
   },
   {
     "title": "Puzzles And Matching - Educational Games",
@@ -3674,28 +3036,6 @@
     "guid": "horizontal-jelly"
   },
   {
-    "title": "Zap Aliens",
-    "thumb": "https://s.h5games.online/images/zap-aliens.jpg",
-    "link": "https://g.h5games.online/zap-aliens/",
-    "description": "Tap Aliens and Astronauts to get points and multiplier!",
-    "category": "other",
-    "tags": "Timing,Kids,Highscore",
-    "width": "840",
-    "height": "960",
-    "guid": "zap-aliens"
-  },
-  {
-    "title": "8 Ball Pool",
-    "thumb": "https://s.h5games.online/images/8-ball-pool.jpg",
-    "link": "https://g.h5games.online/8-ball-pool/",
-    "description": "Play alone against the time to score more points, or against a friend to pocket the 8 ball after all the balls from a player assigned group have been cleared from the table.",
-    "category": "shooters",
-    "tags": "Sports,Boys",
-    "width": "960",
-    "height": "600",
-    "guid": "8-ball-pool"
-  },
-  {
     "title": "Puzzles For Kids",
     "thumb": "https://s.h5games.online/images/puzzles-for-kids.jpg",
     "link": "https://g.h5games.online/puzzles-for-kids/",
@@ -3727,28 +3067,6 @@
     "width": "768",
     "height": "1024",
     "guid": "maze-ball"
-  },
-  {
-    "title": "Tap Neon",
-    "thumb": "https://s.h5games.online/images/tap-neon.jpg",
-    "link": "https://g.h5games.online/tap-neon/",
-    "description": "Tap Neon is a colorful and beautiful arcade game. your aim in this game is passing the obstacles that appear on the way and try to get higher score. Don't miss this game. Good luck and enjoy yourself",
-    "category": "other",
-    "tags": "Kids,Highscore,Boys,Avoid,Arcade",
-    "width": "600",
-    "height": "960",
-    "guid": "tap-neon"
-  },
-  {
-    "title": "Moto Beach Ride",
-    "thumb": "https://s.h5games.online/images/moto-beach-ride.jpg",
-    "link": "https://g.h5games.online/moto-beach-ride/",
-    "description": "Do you like riding motocycle on the beach? Moto Beach Ride is a driving platform HTML5 game can satisfy your dream. There are many levels and challenges waiting for you. You need to ride your moto to the end point safety. Good luck!",
-    "category": "adventures",
-    "tags": "Skill,Kids,Driving,Boys",
-    "width": "1066",
-    "height": "600",
-    "guid": "moto-beach-ride"
   },
   {
     "title": "Tiny Defender",
@@ -3850,28 +3168,6 @@
     "guid": "10x10"
   },
   {
-    "title": "Color Tower",
-    "thumb": "https://s.h5games.online/images/color-tower.jpg",
-    "link": "https://g.h5games.online/color-tower/",
-    "description": "Color Tower is a beautiful and interesting arcade game, you just need to click the screen to play this game. Your aim is build a tower as high as you can and try to get a good score. Enjoy it!",
-    "category": "other",
-    "tags": "Kids,Highscore,Boys,Arcade",
-    "width": "640",
-    "height": "1136",
-    "guid": "color-tower"
-  },
-  {
-    "title": "Color Circle",
-    "thumb": "https://s.h5games.online/images/color-circle.jpg",
-    "link": "https://g.h5games.online/color-circle/",
-    "description": "How fast can you react? Color Circle can test your reaction and help you improve your react ability. You just need to click the screen when it turns to the right color. How many score can you get? Let's have a try!",
-    "category": "other",
-    "tags": "Kids,Highscore,Boys,Arcade",
-    "width": "640",
-    "height": "1136",
-    "guid": "color-circle"
-  },
-  {
     "title": "Ruine Tower",
     "thumb": "https://s.h5games.online/images/ruine-tower.jpg",
     "link": "https://g.h5games.online/ruine-tower/",
@@ -3881,17 +3177,6 @@
     "width": "720",
     "height": "1280",
     "guid": "ruine-tower"
-  },
-  {
-    "title": "Falling Bottle Challenge",
-    "thumb": "https://s.h5games.online/images/falling-bottle-challenge.jpg",
-    "link": "https://g.h5games.online/falling-bottle-challenge/",
-    "description": "Falling Bottle Challenge is an interesting online highscore game, but it's also suitable for mobile phone, in this game you need to make the bottle fall down to the ground, there will be many obstacles on your road, avoid them and see how many points you can get. Have fun!",
-    "category": "other",
-    "tags": "Kids,Highscore,Boys",
-    "width": "640",
-    "height": "1136",
-    "guid": "falling-bottle-challenge"
   },
   {
     "title": "Memory Order",
@@ -3916,17 +3201,6 @@
     "guid": "book-of-treasures"
   },
   {
-    "title": "Falling Dots",
-    "thumb": "https://s.h5games.online/images/falling-dots.jpg",
-    "link": "https://g.h5games.online/falling-dots/",
-    "description": "Falling Dots is an online arcade game can test your reaction. In this game you need to catch the dots falling from sky in the same color with you and avoid those dots different from you. How many score can you get? Have a try!",
-    "category": "other",
-    "tags": "Kids,Highscore,Boys,Avoid,Arcade",
-    "width": "640",
-    "height": "1136",
-    "guid": "falling-dots"
-  },
-  {
     "title": "Lemonade",
     "thumb": "https://s.h5games.online/images/lemonade.jpg",
     "link": "https://g.h5games.online/lemonade/",
@@ -3936,17 +3210,6 @@
     "width": "1080",
     "height": "1920",
     "guid": "lemonade"
-  },
-  {
-    "title": "Rolling Panda",
-    "thumb": "https://s.h5games.online/images/rolling-panda.jpg",
-    "link": "https://g.h5games.online/rolling-panda/",
-    "description": "Panda is a cute animal, I love it so much! This time we provide you a game about panda, in this game you need to tap on screen to jump the panda and save him from falling down. If you get a high score, don't forget to show your high score to your friends. Have fun!",
-    "category": "other",
-    "tags": "Kids,Highscore,Cute,Boys,Avoid,Animals",
-    "width": "640",
-    "height": "1136",
-    "guid": "rolling-panda"
   },
   {
     "title": "Tap Dash Tap",
@@ -4002,17 +3265,6 @@
     "width": "540",
     "height": "960",
     "guid": "air-hockey"
-  },
-  {
-    "title": "Target",
-    "thumb": "https://s.h5games.online/images/target.jpg",
-    "link": "https://g.h5games.online/target/",
-    "description": "Target is a physics puzzle game, you need to shoot your target after a series of bounce. There are many obstacles on you road, so your bomb can't reach the target directly, you need to use your physics knowledge to solve these problems. Can you pass all these levels? Have fun!",
-    "category": "shooters",
-    "tags": "Puzzle,Physics,Kids,Brain,Boys",
-    "width": "640",
-    "height": "960",
-    "guid": "target"
   },
   {
     "title": "Plant Evolution",
@@ -4356,17 +3608,6 @@
     "guid": "slither-game"
   },
   {
-    "title": "Puzzle Blocks Ancient",
-    "thumb": "https://s.h5games.online/images/puzzle-blocks-ancient.jpg",
-    "link": "https://g.h5games.online/puzzle-blocks-ancient/",
-    "description": "Puzzle Blocks Ancient is an interesting online puzzle game in ancient style, if you are interested in ancient style game or puzzle game, come here and try this game. Your aim in this game is put all these blocks in suitable position and cover the given place. How many levels can you finish? Have fun!",
-    "category": "puzzles",
-    "tags": "Kids,Brain,Boys",
-    "width": "640",
-    "height": "860",
-    "guid": "puzzle-blocks-ancient"
-  },
-  {
     "title": "Fidget Spinner Master",
     "thumb": "https://s.h5games.online/images/fidget-spinner-master.jpg",
     "link": "https://g.h5games.online/fidget-spinner-master/",
@@ -4398,17 +3639,6 @@
     "width": "1024",
     "height": "680",
     "guid": "connect-4"
-  },
-  {
-    "title": "FIZZ Puzzle",
-    "thumb": "https://s.h5games.online/images/fizz-puzzle.jpg",
-    "link": "https://g.h5games.online/fizz-puzzle/",
-    "description": "FIZZ Puzzle is an addicting physical puzzle game. Your aim in this game is make this little ball fall into the end point. There will be many obstacles on your road and you can solve these problems using your physics knowledge. How many levels can you get? Have a try!",
-    "category": "puzzles",
-    "tags": "Physics,Kids,Brain,Boys",
-    "width": "640",
-    "height": "960",
-    "guid": "fizz-puzzle"
   },
   {
     "title": "Domino Block",
@@ -4510,17 +3740,6 @@
     "guid": "scratch-fruit"
   },
   {
-    "title": "Gummy Blocks",
-    "thumb": "https://s.h5games.online/images/gummy-blocks.jpg",
-    "link": "https://g.h5games.online/gummy-blocks/",
-    "description": "Gummy Blocks is a beautiful and funny block puzzle game, your aim in this game is drag the forms in the free cells and clear rows and columns in the grid. This game need some skills, don't think it's easy. Come here and try this colorful game!",
-    "category": "puzzles",
-    "tags": "Matching,Kids,Highscore,Brain,Boys",
-    "width": "640",
-    "height": "960",
-    "guid": "gummy-blocks"
-  },
-  {
     "title": "Slot Machine Mr Chicken",
     "thumb": "https://s.h5games.online/images/slot-machine-mr-chicken.jpg",
     "link": "https://g.h5games.online/slot-machine-mr-chicken/",
@@ -4563,17 +3782,6 @@
     "width": "1120",
     "height": "1400",
     "guid": "neon-pong"
-  },
-  {
-    "title": "Monsters Up",
-    "thumb": "https://s.h5games.online/images/monsters-up.jpg",
-    "link": "https://g.h5games.online/monsters-up/",
-    "description": "Hey, let's see these cute monsters! They were trapped in a dangerous place and you are the only person can save it. Help it jump to higher place to avoid the lava, can you help it survive and how many score can you get? Have fun!",
-    "category": "other",
-    "tags": "Kids,Highscore,Cute,Boys,Arcade",
-    "width": "640",
-    "height": "1136",
-    "guid": "monsters-up"
   },
   {
     "title": "Fat Boy Dream",
@@ -4642,17 +3850,6 @@
     "guid": "snake-and-blocks"
   },
   {
-    "title": "Miner Block",
-    "thumb": "https://s.h5games.online/images/miner-block.jpg",
-    "link": "https://g.h5games.online/miner-block/",
-    "description": "The aim of the game is to get the cart full of gold out of the mine by sliding rocks out of the way.",
-    "category": "puzzles",
-    "tags": "Kids,Brain,Boys",
-    "width": "640",
-    "height": "960",
-    "guid": "miner-block"
-  },
-  {
     "title": "Pet Party Columns",
     "thumb": "https://s.h5games.online/images/pet-party-columns.jpg",
     "link": "https://g.h5games.online/pet-party-columns/",
@@ -4684,17 +3881,6 @@
     "width": "768",
     "height": "1024",
     "guid": "push-me-out"
-  },
-  {
-    "title": "Hero Jump",
-    "thumb": "https://s.h5games.online/images/hero-jump.jpg",
-    "link": "https://g.h5games.online/hero-jump/",
-    "description": "Fly as far as possible across the sky jumping on the platforms. Collect coins, use spring jumps and the super jump power-up to get extra points!",
-    "category": "other",
-    "tags": "Skill,Boys,Action",
-    "width": "640",
-    "height": "960",
-    "guid": "hero-jump"
   },
   {
     "title": "Park Your Car",
@@ -4818,17 +4004,6 @@
     "guid": "cyclops-ruins"
   },
   {
-    "title": "Going Nuts",
-    "thumb": "https://s.h5games.online/images/going-nuts.jpg",
-    "link": "https://g.h5games.online/going-nuts/",
-    "description": "Going Nuts is a HTML5 Physics Game. This cute squirrel is starving! Feed him with acorns and nuts, then drop him into the reachest basket to make him happy! ",
-    "category": "other",
-    "tags": "Skill,Platformer,Physics,Kids,Highscore,Brain,Animals",
-    "width": "640",
-    "height": "960",
-    "guid": "going-nuts"
-  },
-  {
     "title": "Maze",
     "thumb": "https://s.h5games.online/images/maze.jpg",
     "link": "https://g.h5games.online/maze/",
@@ -4849,17 +4024,6 @@
     "width": "768",
     "height": "1024",
     "guid": "mastermind"
-  },
-  {
-    "title": "Flow Free Online",
-    "thumb": "https://s.h5games.online/images/flow-free-online.jpg",
-    "link": "https://g.h5games.online/flow-free-online/",
-    "description": "Online version of the popular mobile game Flow Free. Connect matching colors with pipe to create a Flow. Pair all colors, and cover the entire board to solve each puzzle. ",
-    "category": "puzzles",
-    "tags": "Matching,Kids,Brain,Boys",
-    "width": "640",
-    "height": "960",
-    "guid": "flow-free-online"
   },
   {
     "title": "Hacker Challenge",
@@ -5005,17 +4169,6 @@
     "guid": "box-tower"
   },
   {
-    "title": "Penalty Kicks",
-    "thumb": "https://s.h5games.online/images/penalty-kicks.jpg",
-    "link": "https://g.h5games.online/penalty-kicks/",
-    "description": "Penalty Kicks is a HTML5 Sport Game. Your team has chosen you to score the crucial goal that will lead you to the victory! Aim the ball and kick it past the goalkeeper! ",
-    "category": "shooters",
-    "tags": "Sports,Kids,Football,Boys",
-    "width": "1024",
-    "height": "640",
-    "guid": "penalty-kicks"
-  },
-  {
     "title": "Funny Soccer",
     "thumb": "https://s.h5games.online/images/funny-soccer.jpg",
     "link": "https://g.h5games.online/funny-soccer/",
@@ -5036,17 +4189,6 @@
     "width": "1024",
     "height": "768",
     "guid": "bike-speed"
-  },
-  {
-    "title": "100 Metres Race",
-    "thumb": "https://s.h5games.online/images/100-metres-race.jpg",
-    "link": "https://g.h5games.online/100-metres-race/",
-    "description": "Challenge the best runnersin the world and beat their time in the 100 metres race! Collect medals to increase your energy and step to the podium of champions!",
-    "category": "sports",
-    "tags": "Kids,Boys",
-    "width": "1024",
-    "height": "640",
-    "guid": "100-metres-race"
   },
   {
     "title": "Magic Cup",
@@ -5080,17 +4222,6 @@
     "width": "1024",
     "height": "768",
     "guid": "feed-math"
-  },
-  {
-    "title": "Virus Attack",
-    "thumb": "https://s.h5games.online/images/virus-attack.jpg",
-    "link": "https://g.h5games.online/virus-attack/",
-    "description": "Virus Attack is a HTML5 Arcade Game. Cleam portions of screen weaving lines, but be careful! A bunch of deadly viruses will try to destroy you and your lines! Use arrow keys to move your hero along the sides of the screen, press and hold the space bar to weave a line. ",
-    "category": "puzzles",
-    "tags": "Skill,Kids,Highscore,Brain,Avoid,Arcade,Adventure",
-    "width": "640",
-    "height": "1024",
-    "guid": "virus-attack"
   },
   {
     "title": "Olaf The Viking",
@@ -5181,17 +4312,6 @@
     "guid": "fish--n-jump"
   },
   {
-    "title": "Caribbean Stud Poker",
-    "thumb": "https://s.h5games.online/images/caribbean-stud-poker.jpg",
-    "link": "https://g.h5games.online/caribbean-stud-poker/",
-    "description": "Caribbean Stud Poker is a HTML5 Casino Game. Enjoy this stylish Caribbean Stud Poker game.",
-    "category": "other",
-    "tags": "Card",
-    "width": "930",
-    "height": "600",
-    "guid": "caribbean-stud-poker"
-  },
-  {
     "title": "Skeet Challenge",
     "thumb": "https://s.h5games.online/images/skeet-challenge.jpg",
     "link": "https://g.h5games.online/skeet-challenge/",
@@ -5258,17 +4378,6 @@
     "guid": "american-football-kicks"
   },
   {
-    "title": "Bionic Race",
-    "thumb": "https://s.h5games.online/images/bionic-race.jpg",
-    "link": "https://g.h5games.online/bionic-race/",
-    "description": "Bionic Race is a HTML5 Running Game. Run as fast as you can, avoid the obstacles and collect coins to get the highest score!",
-    "category": "other",
-    "tags": "Kids,Highscore,Boys,Avoid",
-    "width": "1024",
-    "height": "640",
-    "guid": "bionic-race"
-  },
-  {
     "title": "Egg Go",
     "thumb": "https://s.h5games.online/images/egg-go.jpg",
     "link": "https://g.h5games.online/egg-go/",
@@ -5278,17 +4387,6 @@
     "width": "768",
     "height": "1024",
     "guid": "egg-go"
-  },
-  {
-    "title": "Football Tricks",
-    "thumb": "https://s.h5games.online/images/football-tricks.jpg",
-    "link": "https://g.h5games.online/football-tricks/",
-    "description": "Football Tricks is a really wonderful HTML5 Game. Hold the ball and choose right time to release. How high you can score? Take your team to win! Enjoy!",
-    "category": "shooters",
-    "tags": "Skill,Kids,Highscore,Football,Boys,Box2D",
-    "width": "1138",
-    "height": "640",
-    "guid": "football-tricks"
   },
   {
     "title": "Guess Number",
@@ -5313,17 +4411,6 @@
     "guid": "classic-bowling"
   },
   {
-    "title": "Circle Flip",
-    "thumb": "https://s.h5games.online/images/circle-flip.jpg",
-    "link": "https://g.h5games.online/circle-flip/",
-    "description": "Circle Flip is an interesting fast-paced online arcade game. In this game you need to click the screen to change the white ball's position, if it is touched by spike, you will lose. Can you create a new score? Have fun!",
-    "category": "other",
-    "tags": "Kids,Highscore,Boys,Arcade",
-    "width": "640",
-    "height": "1136",
-    "guid": "circle-flip"
-  },
-  {
     "title": "Flight Sim",
     "thumb": "https://s.h5games.online/images/flight-sim.jpg",
     "link": "https://g.h5games.online/flight-sim/",
@@ -5333,17 +4420,6 @@
     "width": "1280",
     "height": "768",
     "guid": "flight-sim"
-  },
-  {
-    "title": "Juice Bottle Fast Jumps",
-    "thumb": "https://s.h5games.online/images/juice-bottle-fast-jumps.jpg",
-    "link": "https://g.h5games.online/juice-bottle-fast-jumps/",
-    "description": "Juice Bottle - Fast Jumps is a fast-paced online arcade game, you need to click your mouse or tap your screen when there comes a cones. The speed of it is random, so you need to really concentrate on the screen to success. See how many score you can get. Have fun!",
-    "category": "other",
-    "tags": "Kids,Highscore,Boys,Arcade",
-    "width": "640",
-    "height": "1136",
-    "guid": "juice-bottle-fast-jumps"
   },
   {
     "title": "Spear Toss Challenge",
@@ -5366,17 +4442,6 @@
     "width": "1080",
     "height": "1920",
     "guid": "switch-dash"
-  },
-  {
-    "title": "Flat Crossbar Challenge",
-    "thumb": "https://s.h5games.online/images/flat-crossbar-challenge.jpg",
-    "link": "https://g.h5games.online/flat-crossbar-challenge/",
-    "description": "Do you like football? Now you have a good chance to be a good football player. Your aim is shoot as many balls as possible into the goal, it really need some skills, keep trying and attempt to get a high score. Enjoy it!",
-    "category": "other",
-    "tags": "Kids,Highscore,Football,Boys",
-    "width": "1136",
-    "height": "640",
-    "guid": "flat-crossbar-challenge"
   },
   {
     "title": "Monster Rush Tower Defense",
@@ -5410,17 +4475,6 @@
     "width": "500",
     "height": "890",
     "guid": "gift-craft"
-  },
-  {
-    "title": "4 Pic 1 Word",
-    "thumb": "https://s.h5games.online/images/4-pic-1-word.jpg",
-    "link": "https://g.h5games.online/4-pic-1-word/",
-    "description": "4 Pic 1 Word is an interesting online guessing game. In each puzzle you will found 4 pictures that have something in common.You can get some help by touching the help blocks. Can you guess them all? Have a good time!",
-    "category": "puzzles",
-    "tags": "Kids,Brain,Boys",
-    "width": "640",
-    "height": "960",
-    "guid": "4-pic-1-word"
   },
   {
     "title": "Running Ninja",
@@ -5489,17 +4543,6 @@
     "guid": "christmas-time"
   },
   {
-    "title": "Cars Movement",
-    "thumb": "https://s.h5games.online/images/cars-movement.jpg",
-    "link": "https://g.h5games.online/cars-movement/",
-    "description": "Cars Movement is an exciting arcade game. There are many cars want to get close to you, but there are many bad guys on those cars, so you have to blast them before they touch you using balls in right color. If you use the wrong color, you will lose too. Have a good time!",
-    "category": "other",
-    "tags": "Kids,Highscore,Cars,Boys,Arcade",
-    "width": "640",
-    "height": "1136",
-    "guid": "cars-movement"
-  },
-  {
     "title": "Nine Men's Morris",
     "thumb": "https://s.h5games.online/images/nine-mens-morris.jpg",
     "link": "https://g.h5games.online/nine-mens-morris/",
@@ -5566,17 +4609,6 @@
     "guid": "santa-on-skates"
   },
   {
-    "title": "Smileys",
-    "thumb": "https://s.h5games.online/images/smileys.jpg",
-    "link": "https://g.h5games.online/smileys/",
-    "description": "Do you like smile? Smile is the most beautiful thing in the world, but sometimes sad is also necessary, that's why we create this game. In this game you need to collect sad faces and useful tools, leave smile faces. See how many score you can get. Enjoy it!",
-    "category": "other",
-    "tags": "Timing,Kids,Highscore,Boys,Arcade",
-    "width": "640",
-    "height": "1136",
-    "guid": "smileys"
-  },
-  {
     "title": "Don't Drop The White Ball",
     "thumb": "https://s.h5games.online/images/don-t-drop-the-white-ball.jpg",
     "link": "https://g.h5games.online/don-t-drop-the-white-ball/",
@@ -5641,28 +4673,6 @@
     "width": "768",
     "height": "1024",
     "guid": "skywire"
-  },
-  {
-    "title": "Hot Shoot",
-    "thumb": "https://s.h5games.online/images/hot-shoot.jpg",
-    "link": "https://g.h5games.online/hot-shoot/",
-    "description": "Hot Shoot is an interesting online arcade game, you need to shoot down all balls using your ball. These balls will rotate to interfere you, can you overcome the difficult and get a good score? Have a good time!",
-    "category": "other",
-    "tags": "Kids,Highscore,Boys,Arcade",
-    "width": "540",
-    "height": "960",
-    "guid": "hot-shoot"
-  },
-  {
-    "title": "Grave Drive",
-    "thumb": "https://s.h5games.online/images/grave-drive.jpg",
-    "link": "https://g.h5games.online/grave-drive/",
-    "description": "Grave Drive is an interesting car game, in this dangerous world full of zombies, brave is the only choice for you, drive you car and kill all the zombies stand on your road. This road is tough, you need to show your driving skill. Don't be afraid, don't hesitate, just come here and go!",
-    "category": "racing",
-    "tags": "Zombie,Skill,Kids,Cars,Boys",
-    "width": "1066",
-    "height": "600",
-    "guid": "grave-drive"
   },
   {
     "title": "Plumber",
@@ -5753,28 +4763,6 @@
     "guid": "sweet-world"
   },
   {
-    "title": "Let's Go Fishing",
-    "thumb": "https://s.h5games.online/images/let-s-go-fishing.jpg",
-    "link": "https://g.h5games.online/let-s-go-fishing/",
-    "description": "Let’s Go Fishing is a HTML5 Skill Game. Catch fishes, collect money and reach the next level. Use the earned money to unlock high-value fishes. But watch out! You have limited time to reach the level’s goal!",
-    "category": "other",
-    "tags": "Skill,Kids,Boys,Animals",
-    "width": "960",
-    "height": "640",
-    "guid": "let-s-go-fishing"
-  },
-  {
-    "title": "Footgolf Evolution",
-    "thumb": "https://s.h5games.online/images/footgolf-evolution.jpg",
-    "link": "https://g.h5games.online/footgolf-evolution/",
-    "description": "Footgolf Evolution is a HTML5 Sport Game. Who said that golf and football can’t be mixed together? 24 holes and a bunch of strange obstacles for a new compelling game!",
-    "category": "shooters",
-    "tags": "Sports,Kids,Football,Boys",
-    "width": "960",
-    "height": "640",
-    "guid": "footgolf-evolution"
-  },
-  {
     "title": "Through It",
     "thumb": "https://s.h5games.online/images/through-it.jpg",
     "link": "https://g.h5games.online/through-it/",
@@ -5819,17 +4807,6 @@
     "guid": "shape-fitting"
   },
   {
-    "title": "Zombie Run Saga",
-    "thumb": "https://s.h5games.online/images/zombie-run-saga.jpg",
-    "link": "https://g.h5games.online/zombie-run-saga/",
-    "description": "Zombie Run Saga is an interesting arcade game need your reaction and strategy, in this game you need to control a cute zombie to avoid plants' shoot.You can make them shoot each other by standing between them. How many score can you get? Have a try!",
-    "category": "other",
-    "tags": "Zombie,Kids,Highscore,Boys,Avoid",
-    "width": "640",
-    "height": "1007",
-    "guid": "zombie-run-saga"
-  },
-  {
     "title": "Sky Warrior 2 Invasion",
     "thumb": "https://s.h5games.online/images/sky-warrior-2-invasion.jpg",
     "link": "https://g.h5games.online/sky-warrior-2-invasion/",
@@ -5861,17 +4838,6 @@
     "width": "1080",
     "height": "1920",
     "guid": "tiny-race"
-  },
-  {
-    "title": "Road Fight",
-    "thumb": "https://s.h5games.online/images/road-fight.jpg",
-    "link": "https://g.h5games.online/road-fight/",
-    "description": "Road Fight is an exciting car racing game, the speed of your car is really fast, you need to driving it and avoid all other obstacle cars on the road. Try to collect fuel to add your chance to win. Can you defeat all your opponents and be the only winner? Good luck!",
-    "category": "racing",
-    "tags": "Kids,Cars,Boys,Avoid",
-    "width": "640",
-    "height": "1136",
-    "guid": "road-fight"
   },
   {
     "title": "Drone Wars",
@@ -6226,28 +5192,6 @@
     "guid": "prehistoric-warfare"
   },
   {
-    "title": "Basket Training",
-    "thumb": "https://s.h5games.online/images/basket-training.jpg",
-    "link": "https://g.h5games.online/basket-training/",
-    "description": "Do you want to play basketball in home? You can try our new game Basket Training. In this game you need to shoot your basketball into basket, different baskets have different score, how many scores can you get in the limited time? Let's see!",
-    "category": "sports",
-    "tags": "Timing,Kids,Highscore,Boys,Basketball",
-    "width": "640",
-    "height": "960",
-    "guid": "basket-training"
-  },
-  {
-    "title": "Street Shot",
-    "thumb": "https://s.h5games.online/images/street-shot.jpg",
-    "link": "https://g.h5games.online/street-shot/",
-    "description": "Street Shot is a HTML5 Basket Game. Throw the ball and score! You have a limited time, and it will not be easy! Drag to throw. Throw the ball and discover the bonuses you will have when you’ll score more points… Will you get them all? ",
-    "category": "sports",
-    "tags": "Timing,Skill,Physics,Kids,Highscore,Basketball",
-    "width": "960",
-    "height": "540",
-    "guid": "street-shot"
-  },
-  {
     "title": "Candy Super Lines Match3",
     "thumb": "https://s.h5games.online/images/candy-super-lines-match3.jpg",
     "link": "https://g.h5games.online/candy-super-lines-match3/",
@@ -6301,28 +5245,6 @@
     "width": "720",
     "height": "1280",
     "guid": "blendoku-online"
-  },
-  {
-    "title": "Hop Hop Hop",
-    "thumb": "https://s.h5games.online/images/hop-hop-hop.jpg",
-    "link": "https://g.h5games.online/hop-hop-hop/",
-    "description": "Hop Hop Hop is an interesting arcade online game, in this game you need to control a big-eye monster to avoid many obstacles and survive by jumping. Remember to collect use items and unlock new characters. Have fun!",
-    "category": "adventures",
-    "tags": "Skill,Kids,Highscore,Boys,Avoid,Animals",
-    "width": "540",
-    "height": "960",
-    "guid": "hop-hop-hop"
-  },
-  {
-    "title": "Leaves Boy",
-    "thumb": "https://s.h5games.online/images/leaves-boy.jpg",
-    "link": "https://g.h5games.online/leaves-boy/",
-    "description": "Leaves Boy is a arcade game really need your reflection. Your aim in this game is avoid all the obstacles by tapping your screen and collect as many coins as you can. Sounds Easy? Believe me it is not! You’ll be swinging in no time, but it takes super human reflexes to master it! Have fun!",
-    "category": "adventures",
-    "tags": "Skill,Kids,Highscore,Boys,Avoid,Arcade",
-    "width": "640",
-    "height": "960",
-    "guid": "leaves-boy"
   },
   {
     "title": "Make a Love!",
@@ -6424,17 +5346,6 @@
     "guid": "around-the-world-in-2-seconds"
   },
   {
-    "title": "Jump Kitty",
-    "thumb": "https://s.h5games.online/images/jump-kitty.jpg",
-    "link": "https://g.h5games.online/jump-kitty/",
-    "description": "This is your classic super-casual endless runner.Jump to avoid obstacles such as pointy rocks and platforms. Collect coins along the way. How far can you run?",
-    "category": "adventures",
-    "tags": "Kids,Boys,Avoid,Animals,Action",
-    "width": "960",
-    "height": "540",
-    "guid": "jump-kitty"
-  },
-  {
     "title": "Crossy Road Online",
     "thumb": "https://s.h5games.online/images/crossy-road-online.jpg",
     "link": "https://g.h5games.online/crossy-road-online/",
@@ -6490,17 +5401,6 @@
     "guid": "stick-samurai"
   },
   {
-    "title": "Swing Online",
-    "thumb": "https://s.h5games.online/images/swing-online.jpg",
-    "link": "https://g.h5games.online/swing-online/",
-    "description": "Swing robber is a professional robber and today his aim is the biggest bank in this city. Now you need to help him cross this dangerous place by swing so he can finish his task. How many scores can you get? Good luck!",
-    "category": "other",
-    "tags": "Skill,Kids,Highscore,Boys,Arcade",
-    "width": "640",
-    "height": "960",
-    "guid": "swing-online"
-  },
-  {
     "title": "Fruit Ninja Online",
     "thumb": "https://s.h5games.online/images/fruit-ninja-online.jpg",
     "link": "https://g.h5games.online/fruit-ninja-online/",
@@ -6545,28 +5445,6 @@
     "guid": "find-7-differences"
   },
   {
-    "title": "Brave Bird",
-    "thumb": "https://s.h5games.online/images/brave-bird.jpg",
-    "link": "https://g.h5games.online/brave-bird/",
-    "description": "Brave Bird is a fast-dodging, easy to play but hard to master bird game. Tap the screen left or right to guide Brave Bird helping him dodging the falling crates. And don’t forget to collect as much coins as possible to unlock new characters !",
-    "category": "other",
-    "tags": "Skill,Kids,Highscore,Avoid,Animals",
-    "width": "540",
-    "height": "960",
-    "guid": "brave-bird"
-  },
-  {
-    "title": "Infinity",
-    "thumb": "https://s.h5games.online/images/infinity.jpg",
-    "link": "https://g.h5games.online/infinity/",
-    "description": "A chill and relaxing game where you have to tap the ball carefully to go through obstacles with different shape. You can play it for two minutes or two hours and love every second of it. ",
-    "category": "other",
-    "tags": "Skill,Kids,Highscore,Fun,Avoid",
-    "width": "540",
-    "height": "960",
-    "guid": "infinity"
-  },
-  {
     "title": "Track Racer",
     "thumb": "https://s.h5games.online/images/track-racer.jpg",
     "link": "https://g.h5games.online/track-racer/",
@@ -6576,28 +5454,6 @@
     "width": "800",
     "height": "1280",
     "guid": "track-racer"
-  },
-  {
-    "title": "Escape",
-    "thumb": "https://s.h5games.online/images/escape.jpg",
-    "link": "https://g.h5games.online/escape/",
-    "description": "Escape is a simple yet addicting game where you have to rotate a circle to keep the ball inside it. The more you stay inside the higher you will score. Touch anywhere to rotate circle to keep the ball inside the circle! With a fresh, trendy and minimalist design, enjoy!",
-    "category": "other",
-    "tags": "Skill,Kids,Highscore,Fun,Avoid",
-    "width": "540",
-    "height": "960",
-    "guid": "escape"
-  },
-  {
-    "title": "Color Valley",
-    "thumb": "https://s.h5games.online/images/color-valley.jpg",
-    "link": "https://g.h5games.online/color-valley/",
-    "description": "A super-addicting game where you have to tap the ball carefully to go through obstacles. To cross an obstacle your ball must have the same color! Be careful not to pass through the wrong color, or you’ll have to start again.",
-    "category": "other",
-    "tags": "Skill,Kids,Highscore,Fun,Avoid",
-    "width": "540",
-    "height": "960",
-    "guid": "color-valley"
   },
   {
     "title": "Traffic",
@@ -6798,39 +5654,6 @@
     "guid": "jelly-pop"
   },
   {
-    "title": "Off Road Climber",
-    "thumb": "https://s.h5games.online/images/off-road-climber.jpg",
-    "link": "https://g.h5games.online/off-road-climber/",
-    "description": "Get to the top of the mountain, while trying to balance your off road vehicle.",
-    "category": "racing",
-    "tags": "Kids,Cars",
-    "width": "960",
-    "height": "640",
-    "guid": "off-road-climber"
-  },
-  {
-    "title": "Piggy Bank Adventure",
-    "thumb": "https://s.h5games.online/images/piggy-bank-adventure.jpg",
-    "link": "https://g.h5games.online/piggy-bank-adventure/",
-    "description": "Piggy Bank Adventure is a HTML5 Physic Game. It’s time to save some money! Take the coins to the Piggy Bank cutting the ropes! Stars will give you bonus points, try to beat every level and reach the best score possible!",
-    "category": "puzzles",
-    "tags": "Physics,Kids",
-    "width": "960",
-    "height": "640",
-    "guid": "piggy-bank-adventure"
-  },
-  {
-    "title": "Tap the Tile",
-    "thumb": "https://s.h5games.online/images/tap-the-tile.jpg",
-    "link": "https://g.h5games.online/tap-the-tile/",
-    "description": "Tap The Tile is a HTML5 Skill Game. Don’t touch any white tile, that’s the core rule of this addicting game. Sounds easy? Give it a try and see how many points you’ll score!",
-    "category": "other",
-    "tags": "Skill,Kids,Avoid",
-    "width": "640",
-    "height": "960",
-    "guid": "tap-the-tile"
-  },
-  {
     "title": "Don't Cut Yourself",
     "thumb": "https://s.h5games.online/images/don-t-cut-yourself.jpg",
     "link": "https://g.h5games.online/don-t-cut-yourself/",
@@ -6851,17 +5674,6 @@
     "width": "1920",
     "height": "1080",
     "guid": "young-santa"
-  },
-  {
-    "title": "Gingerbread Maker",
-    "thumb": "https://s.h5games.online/images/gingerbread-maker.jpg",
-    "link": "https://g.h5games.online/gingerbread-maker/",
-    "description": "Gingerbread Maker is a logic game in which you have to decorate gingerbread cookies according to the template. You gradually unlock new colors and decorations, which means that making cookies gets progressively harder.",
-    "category": "puzzles",
-    "tags": "Kids,Brain",
-    "width": "640",
-    "height": "960",
-    "guid": "gingerbread-maker"
   },
   {
     "title": "Balance",
@@ -7073,17 +5885,6 @@
     "guid": "iced-land-adventure"
   },
   {
-    "title": "Dragon Evolution",
-    "thumb": "https://s.h5games.online/images/dragon-evolution.jpg",
-    "link": "https://g.h5games.online/dragon-evolution/",
-    "description": "You need to move and merge the dragons to evolution. There are three mode in the game, enjoy.",
-    "category": "puzzles",
-    "tags": "Kids,Animals",
-    "width": "640",
-    "height": "960",
-    "guid": "dragon-evolution"
-  },
-  {
     "title": "Swift Ninja",
     "thumb": "https://s.h5games.online/images/swift-ninja.jpg",
     "link": "https://g.h5games.online/swift-ninja/",
@@ -7148,17 +5949,6 @@
     "width": "720",
     "height": "1280",
     "guid": "jelly-blast"
-  },
-  {
-    "title": "Jelly Jump Online",
-    "thumb": "https://s.h5games.online/images/jelly-jump-online.jpg",
-    "link": "https://g.h5games.online/jelly-jump-online/",
-    "description": "Jelly Jump is a h5 jump game and it's leading role is a cute jelly. In this game you need to control a jelly and make it jump to a high place to save in the dangerous world. Remember to collect coins to unlock many different cute jellies. Have a good time!",
-    "category": "other",
-    "tags": "Skill,Platformer,Kids,Highscore,Cute,Boys,Avoid,Arcade",
-    "width": "640",
-    "height": "1136",
-    "guid": "jelly-jump-online"
   },
   {
     "title": "Glow Hockey Online",
@@ -7227,17 +6017,6 @@
     "guid": "coat-jump"
   },
   {
-    "title": "Flower Rush",
-    "thumb": "https://s.h5games.online/images/flower-rush.jpg",
-    "link": "https://g.h5games.online/flower-rush/",
-    "description": "Flower Rush is a funny h5 defense game which you need to control a cute beautiful flower and kill your enemies. Try to success in few times, you will be the winner in this war! Have a good time!",
-    "category": "shooters",
-    "tags": "Skill,Kids,Highscore,Cute,Boys,Action",
-    "width": "1024",
-    "height": "640",
-    "guid": "flower-rush"
-  },
-  {
     "title": "Follow The Line Online",
     "thumb": "https://s.h5games.online/images/follow-the-line-online.jpg",
     "link": "https://g.h5games.online/follow-the-line-online/",
@@ -7282,17 +6061,6 @@
     "guid": "air-war-1941"
   },
   {
-    "title": "Wothan Escape",
-    "thumb": "https://s.h5games.online/images/wothan-escape.jpg",
-    "link": "https://g.h5games.online/wothan-escape/",
-    "description": "Wothan Escape is a HTML5 Skill Game. Help the mighty Wothan to escape this dungeon! Run and bounce on walls, avoid spikes and obstacles. On your way, collect as many coins you can and reach the exit door!",
-    "category": "puzzles",
-    "tags": "Boys,Action",
-    "width": "640",
-    "height": "960",
-    "guid": "wothan-escape"
-  },
-  {
     "title": "Castle Slot",
     "thumb": "https://s.h5games.online/images/castle-slot.jpg",
     "link": "https://g.h5games.online/castle-slot/",
@@ -7302,17 +6070,6 @@
     "width": "1280",
     "height": "800",
     "guid": "castle-slot"
-  },
-  {
-    "title": "Mini Jump",
-    "thumb": "https://s.h5games.online/images/mini-jump.jpg",
-    "link": "https://g.h5games.online/mini-jump/",
-    "description": "Game gets difficult as you earn more score. There are 5 more locked characters, earn score and collect coins to unlock awesome characters.",
-    "category": "other",
-    "tags": "Skill,Kids,Highscore",
-    "width": "640",
-    "height": "1136",
-    "guid": "mini-jump"
   },
   {
     "title": "Cute Road",
@@ -7370,39 +6127,6 @@
     "guid": "mini-golf-world"
   },
   {
-    "title": "Rise Up",
-    "thumb": "https://s.h5games.online/images/rise-up.jpg",
-    "link": "https://g.h5games.online/rise-up/",
-    "description": "Rise Up is a simple touch based game. You have to jump on platforms to make score. Difficulty of game increases when level up.",
-    "category": "other",
-    "tags": "Platformer,Kids,Highscore,Boys,Avoid,Action",
-    "width": "640",
-    "height": "960",
-    "guid": "rise-up"
-  },
-  {
-    "title": "Floor Jumper Escape",
-    "thumb": "https://s.h5games.online/images/floor-jumper-escape.jpg",
-    "link": "https://g.h5games.online/floor-jumper-escape/",
-    "description": "Escape from the police jumping higher and higher up into the building. But don’t fall down. Use the walls to bounce, collect money to get more points and let yourself go in this addicting game!",
-    "category": "other",
-    "tags": "Platformer,Kids,Boys,Avoid,Action",
-    "width": "640",
-    "height": "960",
-    "guid": "floor-jumper-escape"
-  },
-  {
-    "title": "Match Drop",
-    "thumb": "https://s.h5games.online/images/match-drop.jpg",
-    "link": "https://g.h5games.online/match-drop/",
-    "description": "Match Drop is a puzzle Match 3 game with tap style. Tap or click on any 3 or more diamond with same color, if you tap greater than 5 diamond, you will get a bonus item like a bomb and power.",
-    "category": "other",
-    "tags": "Matching,Kids",
-    "width": "640",
-    "height": "1136",
-    "guid": "match-drop"
-  },
-  {
     "title": "Math Game: Multiple Choice",
     "thumb": "https://s.h5games.online/images/math-game--multiple-choice.jpg",
     "link": "https://g.h5games.online/math-game--multiple-choice/",
@@ -7436,17 +6160,6 @@
     "guid": "halloween-match-3-2"
   },
   {
-    "title": "Run Into Death",
-    "thumb": "https://s.h5games.online/images/run-into-death.jpg",
-    "link": "https://g.h5games.online/run-into-death/",
-    "description": "Zombies are coming but you have only one gun, can you defend your homeland? Try to kill all of the zombies and survive for as long as possible in this scary zombie shooter game.",
-    "category": "shooters",
-    "tags": "Zombie,Highscore,Boys",
-    "width": "960",
-    "height": "640",
-    "guid": "run-into-death"
-  },
-  {
     "title": "Santa Girl Runner",
     "thumb": "https://s.h5games.online/images/santa-girl-runner.jpg",
     "link": "https://g.h5games.online/santa-girl-runner/",
@@ -7456,17 +6169,6 @@
     "width": "1280",
     "height": "720",
     "guid": "santa-girl-runner"
-  },
-  {
-    "title": "Crevice Animal",
-    "thumb": "https://s.h5games.online/images/crevice-animal.jpg",
-    "link": "https://g.h5games.online/crevice-animal/",
-    "description": "While adventuring in a mysterious cave, our animal encountered the Cursed Terrain, where rocks and walls slam up and down continuously to protect the treasures that lie inside. Your job is to traverse these traps and dodge when needed, try to go as far as you can and collect more mushrooms.",
-    "category": "adventures",
-    "tags": "Skill,Kids,Boys,Avoid",
-    "width": "960",
-    "height": "640",
-    "guid": "crevice-animal"
   },
   {
     "title": "Reflector",
@@ -7522,28 +6224,6 @@
     "width": "540",
     "height": "960",
     "guid": "sky-race"
-  },
-  {
-    "title": "Magical Castle Coin Dozer",
-    "thumb": "https://s.h5games.online/images/magical-castle-coin-dozer.jpg",
-    "link": "https://g.h5games.online/magical-castle-coin-dozer/",
-    "description": "Magical Castle Coin Dozer is a HTML5 game. Tap on the door or buttons to relase gold and push the gold. Step right up, ladies and gents, for the virtual version of the addictive arcade coin pusher you’ve spent hours playing at the carnival! One of most-played free games of all time, Magical Castle Coin Dozer puts the fun in your hands. Drop gold coins onto the dozer to push piles of cash your way! Be careful…",
-    "category": "other",
-    "tags": "Physics,Kids,Highscore,Fun",
-    "width": "640",
-    "height": "960",
-    "guid": "magical-castle-coin-dozer"
-  },
-  {
-    "title": "Express Car",
-    "thumb": "https://s.h5games.online/images/express-car.jpg",
-    "link": "https://g.h5games.online/express-car/",
-    "description": "The game’s style car crash. Get away from the police and avoid cars or destroy all. Arrows to control the car.Enjoy yourself!",
-    "category": "racing",
-    "tags": "Skill,Kids,Highscore,Cars,Boys,Avoid",
-    "width": "640",
-    "height": "960",
-    "guid": "express-car"
   },
   {
     "title": "Car Crossing",
@@ -7610,17 +6290,6 @@
     "width": "1280",
     "height": "720",
     "guid": "square-crush"
-  },
-  {
-    "title": "Fat Shark",
-    "thumb": "https://s.h5games.online/images/fat-shark.jpg",
-    "link": "https://g.h5games.online/fat-shark/",
-    "description": "This shark is starving, feed him with some fishes, but be careful, the more he eats, the more he’ll get fat and won’t avoid bombs anymore! Collect algae bonuses to shrink back to the original size, starfishes and hourglasses to get more points.",
-    "category": "other",
-    "tags": "Kids,Highscore,Boys,Avoid,Animals",
-    "width": "640",
-    "height": "960",
-    "guid": "fat-shark"
   },
   {
     "title": "Jet Halloween",
@@ -7711,17 +6380,6 @@
     "guid": "transport"
   },
   {
-    "title": "Whack A Ninja",
-    "thumb": "https://s.h5games.online/images/whack-a-ninja.jpg",
-    "link": "https://g.h5games.online/whack-a-ninja/",
-    "description": "Just Tap On Screen To Beat Ninjas.",
-    "category": "other",
-    "tags": "Kids,Boys",
-    "width": "640",
-    "height": "960",
-    "guid": "whack-a-ninja"
-  },
-  {
     "title": "Space Purge",
     "thumb": "https://s.h5games.online/images/space-purge.jpg",
     "link": "https://g.h5games.online/space-purge/",
@@ -7775,17 +6433,6 @@
     "width": "768",
     "height": "1366",
     "guid": "punch-box"
-  },
-  {
-    "title": "Neptune Journey",
-    "thumb": "https://s.h5games.online/images/neptune-journey.jpg",
-    "link": "https://g.h5games.online/neptune-journey/",
-    "description": "Tap left or right to jump and you need to move the ball to the opposite platform quickly and safely. Try to clear all level with 3 stars. Happy journey in Neptune.",
-    "category": "adventures",
-    "tags": "Skill,Platformer,Kids,Highscore",
-    "width": "960",
-    "height": "640",
-    "guid": "neptune-journey"
   },
   {
     "title": "Ribbit Racer",
@@ -7898,17 +6545,6 @@
     "guid": "dark-night"
   },
   {
-    "title": "Tap The Rat",
-    "thumb": "https://s.h5games.online/images/tap-the-rat.jpg",
-    "link": "https://g.h5games.online/tap-the-rat/",
-    "description": "Tap The Rat is an addicting HTML5 Tap Game. Hey, kitty! Are you ready to 'tap' some rats? Try and collect mouses and any bonus before the time runs out, and be quick as you can! Just remember: Tap 'em to get 'em! Collect coins at each game, and try to beat your best score!",
-    "category": "other",
-    "tags": "Timing,Skill,Kids,Highscore,Animals",
-    "width": "640",
-    "height": "960",
-    "guid": "tap-the-rat"
-  },
-  {
     "title": "Pig Run",
     "thumb": "https://s.h5games.online/images/pig-run.jpg",
     "link": "https://g.h5games.online/pig-run/",
@@ -8019,17 +6655,6 @@
     "guid": "math-genius"
   },
   {
-    "title": "Lizard Rocket",
-    "thumb": "https://s.h5games.online/images/lizard-rocket.jpg",
-    "link": "https://g.h5games.online/lizard-rocket/",
-    "description": "Lizard Rocket is a fun and easy game. Just tap on screen to make the lizard fly with rocket. Collect Coins and super powers like speed, shield and tiny feature. Avoid the obstcles! Have fun! Try your best score. ",
-    "category": "adventures",
-    "tags": "Skill,Kids,Highscore,Avoid,Animals",
-    "width": "640",
-    "height": "960",
-    "guid": "lizard-rocket"
-  },
-  {
     "title": "Wolly",
     "thumb": "https://s.h5games.online/images/wolly.jpg",
     "link": "https://g.h5games.online/wolly/",
@@ -8050,17 +6675,6 @@
     "width": "960",
     "height": "540",
     "guid": "animal-crush"
-  },
-  {
-    "title": "Hungry Frog 2",
-    "thumb": "https://s.h5games.online/images/hungry-frog-2.jpg",
-    "link": "https://g.h5games.online/hungry-frog-2/",
-    "description": "There is a Hungry Frog waiting for your help. Get the flies as fast as possible and break the highscore. This game comes with additional features like: slow down time, fly swatter, bigger tongue, bomb flies etc. Have fun!",
-    "category": "other",
-    "tags": "Timing,Skill,Kids,Highscore,Animals",
-    "width": "960",
-    "height": "640",
-    "guid": "hungry-frog-2"
   },
   {
     "title": "Gingerman Rescue",
@@ -8129,28 +6743,6 @@
     "guid": "asteroid"
   },
   {
-    "title": "Stone Aged",
-    "thumb": "https://s.h5games.online/images/stone-aged.jpg",
-    "link": "https://g.h5games.online/stone-aged/",
-    "description": "Welcome to Stone Aged that is a running adventure html 5 game. In this endless runner game run as a cave man to collect Coins and destroy as many Dinosaurs as you can. Simple game play. Just jump and throw your weapon to hunt Dinosaurs and bring home the bacon for your wife because she is hungry!",
-    "category": "shooters",
-    "tags": "Skill,Platformer,Kids,Highscore,Endless Runner,Boy",
-    "width": "960",
-    "height": "640",
-    "guid": "stone-aged"
-  },
-  {
-    "title": "Ninja Man",
-    "thumb": "https://s.h5games.online/images/ninja-man.jpg",
-    "link": "https://g.h5games.online/ninja-man/",
-    "description": "Help the ninja man to save his lover. But avoid the enemy and collect all stars as possible as you can. Enjoy!",
-    "category": "shooters",
-    "tags": "Skill,Platformer,Physics,Kids,Boys,Avoid,Adventure",
-    "width": "640",
-    "height": "360",
-    "guid": "ninja-man"
-  },
-  {
     "title": "Emoji Ball",
     "thumb": "https://s.h5games.online/images/emoji-ball.jpg",
     "link": "https://g.h5games.online/emoji-ball/",
@@ -8182,17 +6774,6 @@
     "width": "1024",
     "height": "768",
     "guid": "cube-ninja"
-  },
-  {
-    "title": "Sniper Mission",
-    "thumb": "https://s.h5games.online/images/sniper-mission.jpg",
-    "link": "https://g.h5games.online/sniper-mission/",
-    "description": "Sniper Mission: Free The Hostage is a 2D shooter retro game. In this game you are a sniper, which has a mission to free the hostages. Each mission has a certain degree of difficulty and time limits. Before you shoot be sure see the wind direction and wind strength. The wind factor will affect the accuracy of bullets you shot. When you shot the hostage or the time runs out then your mission will fail. Enjoy!",
-    "category": "shooters",
-    "tags": "Skill,Kids,Highscore,Boys,Avoid",
-    "width": "640",
-    "height": "980",
-    "guid": "sniper-mission"
   },
   {
     "title": "Around",
@@ -8237,39 +6818,6 @@
     "width": "720",
     "height": "1280",
     "guid": "ninja"
-  },
-  {
-    "title": "Tajis Climb",
-    "thumb": "https://s.h5games.online/images/tajis-climb.jpg",
-    "link": "https://g.h5games.online/tajis-climb/",
-    "description": "There will be many obstacles and dangerous creatures on your way, so you should act carefully. Click to activate the swing attack and change the side.",
-    "category": "other",
-    "tags": "Skill,Kids,Boys,Avoid,Action",
-    "width": "640",
-    "height": "1138",
-    "guid": "tajis-climb"
-  },
-  {
-    "title": "Apachiri Run",
-    "thumb": "https://s.h5games.online/images/apachiri-run.jpg",
-    "link": "https://g.h5games.online/apachiri-run/",
-    "description": "Apachiri Run is a Html 5 runner game for all ages. The native american kid Apachiri has to escape from the bison by taking a tour through his village. It has easy controls which can be mastered to gain the best score. Have fun!",
-    "category": "adventures",
-    "tags": "Skill,Platformer,Kids,Highscore,Endless Runner,Boy",
-    "width": "960",
-    "height": "640",
-    "guid": "apachiri-run"
-  },
-  {
-    "title": "Bones Slasher",
-    "thumb": "https://s.h5games.online/images/bones-slasher.jpg",
-    "link": "https://g.h5games.online/bones-slasher/",
-    "description": "Bones Slasher is a HTML5 Survival Game. Welcome mighty warrior in this fantasy world! Tap the screen to shoot the enemies. Move your warrior and collect gold, diamonds, bonuses and weapons during your quest before the time runs out!",
-    "category": "shooters",
-    "tags": "Timing,Skill,Kids,Highscore,Boys",
-    "width": "640",
-    "height": "960",
-    "guid": "bones-slasher"
   },
   {
     "title": "Cards Memory",
@@ -8360,17 +6908,6 @@
     "guid": "panic-drop"
   },
   {
-    "title": "Jumpa",
-    "thumb": "https://s.h5games.online/images/jumpa.jpg",
-    "link": "https://g.h5games.online/jumpa/",
-    "description": "In the game you need to jump from one step to another and avoid enemy blocks. The speed increases as time passes which makes game harder and harder. ",
-    "category": "other",
-    "tags": "Skill,Platformer,Boys,Avoid",
-    "width": "640",
-    "height": "960",
-    "guid": "jumpa"
-  },
-  {
     "title": "Crazy Jump",
     "thumb": "https://s.h5games.online/images/crazy-jump.jpg",
     "link": "https://g.h5games.online/crazy-jump/",
@@ -8380,17 +6917,6 @@
     "width": "720",
     "height": "1280",
     "guid": "crazy-jump"
-  },
-  {
-    "title": "Zombie Smash",
-    "thumb": "https://s.h5games.online/images/zombie-smash.jpg",
-    "link": "https://g.h5games.online/zombie-smash/",
-    "description": "Tap the Zombies before they reach the bottom! There will be a surprise for you if you catch a bubble. Gain the highscore! Enjoy!",
-    "category": "other",
-    "tags": "Zombie,Skill,Highscore,Boys",
-    "width": "640",
-    "height": "960",
-    "guid": "zombie-smash"
   },
   {
     "title": "ZombiesMon Go",
@@ -8413,17 +6939,6 @@
     "width": "720",
     "height": "1280",
     "guid": "amazing-jump"
-  },
-  {
-    "title": "Monster Ball",
-    "thumb": "https://s.h5games.online/images/monster-ball.jpg",
-    "link": "https://g.h5games.online/monster-ball/",
-    "description": "Monster Ball is a cool and funny Html 5 fast-paced game. Go on a FUN monster hunting, throw your monster ball and catch them all! Tap on the ground to move and tap the ball to throw. Enjoy!",
-    "category": "shooters",
-    "tags": "Skill,Kids,Highscore,Boys,Animals",
-    "width": "640",
-    "height": "1024",
-    "guid": "monster-ball"
   },
   {
     "title": "Catch The Monster",
@@ -8468,17 +6983,6 @@
     "width": "1280",
     "height": "720",
     "guid": "mufy"
-  },
-  {
-    "title": "Best Bird Climb",
-    "thumb": "https://s.h5games.online/images/best-bird-climb.jpg",
-    "link": "https://g.h5games.online/best-bird-climb/",
-    "description": "Tap to fly and keep the bird to avoid from obstacle.",
-    "category": "other",
-    "tags": "Kids,Highscore,Avoid,Animals",
-    "width": "640",
-    "height": "960",
-    "guid": "best-bird-climb"
   },
   {
     "title": "Tank Defender",
