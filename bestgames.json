@@ -664,25 +664,6 @@
       "highscores_enabled": true
     },
     {
-      "package_id": "save-the-princess",
-      "name": "Save the Princess",
-      "description": "Unite the Prince and Princess in Save the Princess, a captivating game of love, strategy, and line-drawing through 40+ challenging levels!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SaveThePrincessTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/SaveThePrincessTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/SaveThePrincessTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/SaveThePrincessTeaser.jpg",
-      "link": "https://play.famobi.com/save-the-princess/A-432OH",
-      "date": "2023-06-01",
-      "aspect_ratio": 0,
-      "related": [],
-      "categories": [
-        "puzzle",
-        "girls"
-      ],
-      "orientation": "none",
-      "highscores_enabled": true
-    },
-    {
       "package_id": "peet-a-lock",
       "name": "Peet a Lock",
       "description": "Unlock the fun and help Peet get to the bathroom in Peet a Lock - the ultimate lockpicking game!",
@@ -2178,60 +2159,6 @@
       "related": [],
       "categories": [
         "skill"
-      ],
-      "orientation": "none",
-      "highscores_enabled": false
-    },
-    {
-      "package_id": "baby-lily-birthday",
-      "name": "Baby Lily Birthday",
-      "description": "Help Baby Lily with the preparations for her birthday and celebrate the day with her friends!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BabyLilyBirthday_Teaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/BabyLilyBirthday_Teaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/BabyLilyBirthday_Teaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/BabyLilyBirthday_Teaser.jpg",
-      "link": "https://play.famobi.com/baby-lily-birthday/A-432OH",
-      "date": "2018-10-25",
-      "aspect_ratio": 1,
-      "related": [],
-      "categories": [
-        "girls"
-      ],
-      "orientation": "none",
-      "highscores_enabled": false
-    },
-    {
-      "package_id": "baby-lily-care",
-      "name": "Baby Lily Care ",
-      "description": "Take care of Baby Lily in this cute girl game!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BabyLilyCare_Teaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/BabyLilyCare_Teaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/BabyLilyCare_Teaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/BabyLilyCare_Teaser.jpg",
-      "link": "https://play.famobi.com/baby-lily-care/A-432OH",
-      "date": "2018-10-25",
-      "aspect_ratio": 1,
-      "related": [],
-      "categories": [
-        "girls"
-      ],
-      "orientation": "none",
-      "highscores_enabled": false
-    },
-    {
-      "package_id": "baby-lily-sick-day",
-      "name": "Baby Lily Sick Day",
-      "description": "Take care of sick Baby Lily and make her healthy and happy again!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BabyLilySickDayTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/BabyLilySickDayTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/BabyLilySickDayTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/BabyLilySickDayTeaser.jpg",
-      "link": "https://play.famobi.com/baby-lily-sick-day/A-432OH",
-      "date": "2018-10-23",
-      "aspect_ratio": 1,
-      "related": [],
-      "categories": [
-        "girls"
       ],
       "orientation": "none",
       "highscores_enabled": false
