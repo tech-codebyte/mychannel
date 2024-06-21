@@ -53,6 +53,12 @@
     "orientation": "land",
     "image_path": "https://static.gamezop.io/HycgCtSWuE/square.png"
   },
+   {
+      "name": "Crazy Hen Level",
+      "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/CrazyHenLevelTeaser.jpg",
+      "url": "https://play.famobi.com/crazy-hen-level/A-432OH",
+      "orientation": "port"
+    },
   {
     "name":    "Flying School",
     "url": "https://hjtgdhhefjx.play.gamezop.com/g/VJOGOyGb9l",
