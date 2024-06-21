@@ -23,6 +23,18 @@
     "orientation": "land",
     "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/AliensAttackTeaser.jpg"
   },
+    {
+      "name": "Giant Attack",
+      "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/GiantAttackTeaser.jpg",
+      "url": "https://play.famobi.com/giant-attack/A-432OH",
+      "orientation": "port"
+    },
+    {
+      "name": "Gun Spin",
+      "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/GunSpinTeaser.jpg",
+      "url": "https://play.famobi.com/gun-spin/A-432OH",
+      "orientation": "port"
+    },
   {
     "name":  "Knife VS Zombies",
     "url": "https://www.atmegame.com/games/knife-vs-zombies?utm_source=Gameshub&utm_medium=Gameshub",
