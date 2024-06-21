@@ -39,37 +39,37 @@
       "name": "Drift Dudes",
       "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/DriftDudesTeaser.jpg",
       "url": "https://play.famobi.com/drift-dudes/A-432OH",
-      "orientation": "port",
+      "orientation": "port"
     },
 	 {
       "name": "E-Scooter!",
       "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/EScooterTeaser.jpg",
       "url": "https://play.famobi.com/e-scooter/A-432OH",
-      "orientation": "port",
+      "orientation": "port"
     },
 	 {
       "name": "Moto X3M Pool Party",
       "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/MotoX3mPoolPartyTeaser.jpg",
       "url": "https://play.famobi.com/moto-x3m-pool-party/A-432OH",
-      "orientation": "land",
+      "orientation": "land"
     },
     {
       "name": "Adventure Drivers",
       "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/AdventureDriversTeaser.jpg",
       "url": "https://play.famobi.com/adventure-drivers/A-432OH",
-      "orientation": "port",
+      "orientation": "port"
     },
     {
       "name": "Moto X3M",
       "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/MotoX3mTeaser.jpg",
       "url": "https://play.famobi.com/moto-x3m/A-432OH",
-      "orientation": "land",
+      "orientation": "land"
     },
 	 {
       "name": "Traffic Tom",
       "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/TrafficTomTeaser.jpg",
       "url": "https://play.famobi.com/traffic-tom/A-432OH",
-      "orientation": "port",
+      "orientation": "port"
     },
   {
     "name":    "Speed",
@@ -87,7 +87,7 @@
       "name": "Highway Rider Extreme",
       "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/HighwayRiderExtremeTeaser.jpg",
       "url": "https://play.famobi.com/highway-rider-extreme/A-432OH",
-      "orientation": "port",
+      "orientation": "port"
     },
    {
     "name": "Lane Battle",
