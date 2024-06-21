@@ -2726,81 +2726,6 @@
       "highscores_enabled": false
     },
     {
-      "package_id": "tina-costume-party",
-      "name": "Tina - Costume Party",
-      "description": "Help Tina prepare a fancy costume party at the beach and choose a stunning costume to impress her friends!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TinaCostumePartyTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/TinaCostumePartyTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/TinaCostumePartyTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/TinaCostumePartyTeaser.jpg",
-      "link": "https://play.famobi.com/tina-costume-party/A-432OH",
-      "aspect_ratio": 1,
-      "related": [],
-      "categories": [
-        "girls",
-        "make-up",
-        "dress-up"
-      ],
-      "orientation": "none",
-      "highscores_enabled": false
-    },
-    {
-      "package_id": "nina-costume-party",
-      "name": "Nina - Costume Party",
-      "description": "Help Nina prepare a fancy costume party at the beach and choose a stunning costume to impress her friends!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/NinaCostumePartyTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/NinaCostumePartyTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/NinaCostumePartyTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/NinaCostumePartyTeaser.jpg",
-      "link": "https://play.famobi.com/nina-costume-party/A-432OH",
-      "aspect_ratio": 1,
-      "related": [],
-      "categories": [
-        "make-up",
-        "dress-up",
-        "girls"
-      ],
-      "orientation": "none",
-      "highscores_enabled": false
-    },
-    {
-      "package_id": "nina-great-summer-day",
-      "name": "Nina - Great Summer Day",
-      "description": "Join sporty student Nina on a lovely summer day, go diving and help her pick a beautiful party outfit to impress her boyfriend!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/NinaGreatSummerDayTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/NinaGreatSummerDayTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/NinaGreatSummerDayTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/NinaGreatSummerDayTeaser.jpg",
-      "link": "https://play.famobi.com/nina-great-summer-day/A-432OH",
-      "aspect_ratio": 1,
-      "related": [],
-      "categories": [
-        "make-up",
-        "dress-up",
-        "girls"
-      ],
-      "orientation": "none",
-      "highscores_enabled": false
-    },
-    {
-      "package_id": "tina-great-summer-day",
-      "name": "Tina - Great Summer Day",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TinaGreatSummerDayTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/TinaGreatSummerDayTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/TinaGreatSummerDayTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/TinaGreatSummerDayTeaser.jpg",
-      "link": "https://play.famobi.com/tina-great-summer-day/A-432OH",
-      "aspect_ratio": 1,
-      "related": [],
-      "categories": [
-        "dress-up",
-        "make-up",
-        "girls"
-      ],
-      "orientation": "none",
-      "highscores_enabled": false
-    },
-    {
       "package_id": "street-hoops-3d",
       "name": "Street Hoops 3D",
       "description": "Earn as many points as possible with a limited number of balls in this cool 3D basketball game!",
@@ -2874,23 +2799,6 @@
       "highscores_enabled": false
     },
     {
-      "package_id": "bffs-house-party",
-      "name": "BFFs House Party",
-      "description": "Prepare food and dress up for a wonderful party evening with your BFFs!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BffsHousePartyTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/BffsHousePartyTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/BffsHousePartyTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/BffsHousePartyTeaser.jpg",
-      "link": "https://play.famobi.com/bffs-house-party/A-432OH",
-      "aspect_ratio": 1,
-      "related": [],
-      "categories": [
-        "girls"
-      ],
-      "orientation": "none",
-      "highscores_enabled": false
-    },
-    {
       "package_id": "totemia-cursed-marbles",
       "name": "Totemia: Cursed Marbles",
       "description": "Shoot and combine at least 3 same-colored balls and stop the line of cursed marbles before it reaches the end in this challenging Match3 game!",
@@ -2906,77 +2814,6 @@
         "skill"
       ],
       "orientation": "none",
-      "highscores_enabled": true
-    },
-    {
-      "package_id": "mafia-poker",
-      "name": "Mafia Poker",
-      "description": "Play classic Texas Hold 'em Poker with the Mafia and try to win all chips!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/MafiaPokerTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/MafiaPokerTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/MafiaPokerTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/MafiaPokerTeaser.jpg",
-      "link": "https://play.famobi.com/mafia-poker/A-432OH",
-      "aspect_ratio": 0.685,
-      "related": [],
-      "categories": [
-        "cards"
-      ],
-      "orientation": "none",
-      "highscores_enabled": false
-    },
-    {
-      "package_id": "tina-airlines",
-      "name": "Tina - Airlines",
-      "description": "Help air hostess Tina in this stylish makeover game!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TinaAirlinesTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/TinaAirlinesTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/TinaAirlinesTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/TinaAirlinesTeaser.jpg",
-      "link": "https://play.famobi.com/tina-airlines/A-432OH",
-      "aspect_ratio": 1,
-      "related": [],
-      "categories": [
-        "make-up",
-        "girls",
-        "dress-up"
-      ],
-      "orientation": "none",
-      "highscores_enabled": false
-    },
-    {
-      "package_id": "winter-makeup",
-      "name": "Winter Makeup",
-      "description": "It's your turn to create the best Christmas look of all! Grant yourself a magical spa treatment, put on some stylish powder rouge and be the star at the upcoming Christmas party!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/WinterMakeupTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/WinterMakeupTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/WinterMakeupTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/WinterMakeupTeaser.jpg",
-      "link": "https://play.famobi.com/winter-makeup/A-432OH",
-      "aspect_ratio": 1,
-      "related": [],
-      "categories": [
-        "girls",
-        "make-up"
-      ],
-      "orientation": "none",
-      "highscores_enabled": false
-    },
-    {
-      "package_id": "jewel-aquarium",
-      "name": "Jewel Aquarium",
-      "description": "Match fish of the same color and try to beat all levels with 3 stars in this challenging Match3 game with 60 levels!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/JewelAquariumTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/JewelAquariumTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/JewelAquariumTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/JewelAquariumTeaser.jpg",
-      "link": "https://play.famobi.com/jewel-aquarium/A-432OH",
-      "aspect_ratio": 0.6,
-      "related": [],
-      "categories": [
-        "match-3"
-      ],
-      "orientation": "portrait",
       "highscores_enabled": true
     },
     {
@@ -3067,60 +2904,6 @@
       ],
       "orientation": "none",
       "highscores_enabled": false
-    },
-    {
-      "package_id": "nina-airlines",
-      "name": "Nina - Airlines",
-      "description": "Help air hostess Nina with her job in this cute makeover game!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/NinaAirlinesTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/NinaAirlinesTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/NinaAirlinesTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/NinaAirlinesTeaser.jpg",
-      "link": "https://play.famobi.com/nina-airlines/A-432OH",
-      "aspect_ratio": 1,
-      "related": [],
-      "categories": [
-        "dress-up",
-        "girls",
-        "make-up"
-      ],
-      "orientation": "none",
-      "highscores_enabled": false
-    },
-    {
-      "package_id": "jewel-christmas",
-      "name": "Jewel Christmas",
-      "description": "Match at least 3 identical decorations in this explosive Christmas game!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/JewelChristmasTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/JewelChristmasTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/JewelChristmasTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/JewelChristmasTeaser.jpg",
-      "link": "https://play.famobi.com/jewel-christmas/A-432OH",
-      "aspect_ratio": 0.6,
-      "related": [],
-      "categories": [
-        "match-3"
-      ],
-      "orientation": "portrait",
-      "highscores_enabled": true
-    },
-    {
-      "package_id": "onet-connect-christmas",
-      "name": "Onet Connect Christmas",
-      "description": "Find pairs and remove all tiles from the field before the time is up in this Christmas-themed Mahjong connect game!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/OnetConnectChristmasTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/OnetConnectChristmasTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/OnetConnectChristmasTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/OnetConnectChristmasTeaser.jpg",
-      "link": "https://play.famobi.com/onet-connect-christmas/A-432OH",
-      "aspect_ratio": 1.778,
-      "related": [],
-      "categories": [
-        "puzzle",
-        "mahjong"
-      ],
-      "orientation": "none",
-      "highscores_enabled": true
     },
     {
       "package_id": "highway-rider-extreme",
@@ -3231,23 +3014,6 @@
       "highscores_enabled": true
     },
     {
-      "package_id": "nina-ballet-star",
-      "name": "Nina Ballet Star",
-      "description": "Help Star Ballerina Nina prepare for her big performance tonight! Practice dance moves and create a stunning outfit to Wow the audience!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/NinaBalletStarTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/NinaBalletStarTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/NinaBalletStarTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/NinaBalletStarTeaser.jpg",
-      "link": "https://play.famobi.com/nina-ballet-star/A-432OH",
-      "aspect_ratio": 1,
-      "related": [],
-      "categories": [
-        "girls"
-      ],
-      "orientation": "none",
-      "highscores_enabled": false
-    },
-    {
       "package_id": "city-dunk",
       "name": "City Dunk",
       "description": "Tap to fly in this highly addictive skill game and try to jump into as many hoops as you can with your basketball to score loads of points!",
@@ -3264,23 +3030,6 @@
       ],
       "orientation": "none",
       "highscores_enabled": true
-    },
-    {
-      "package_id": "tina-ballet-star",
-      "name": "Tina Ballet Star",
-      "description": "Ballerina Tina will be the star of tonight's performance and you have to help the beautiful dancer rehearse and select a dress for the show!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TinaBalletStarTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/TinaBalletStarTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/TinaBalletStarTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/TinaBalletStarTeaser.jpg",
-      "link": "https://play.famobi.com/tina-ballet-star/A-432OH",
-      "aspect_ratio": 1,
-      "related": [],
-      "categories": [
-        "girls"
-      ],
-      "orientation": "none",
-      "highscores_enabled": false
     },
     {
       "package_id": "color-shape",
@@ -3442,40 +3191,6 @@
       "highscores_enabled": false
     },
     {
-      "package_id": "tina-learn-to-ballet",
-      "name": "Tina - Learn To Ballet",
-      "description": "Help Ballerina Tina practice her dance routine! Watch the combination given and tap the steps in the same order!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TinaLearnToBalletTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/TinaLearnToBalletTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/TinaLearnToBalletTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/TinaLearnToBalletTeaser.jpg",
-      "link": "https://play.famobi.com/tina-learn-to-ballet/A-432OH",
-      "aspect_ratio": 1,
-      "related": [],
-      "categories": [
-        "girls"
-      ],
-      "orientation": "none",
-      "highscores_enabled": true
-    },
-    {
-      "package_id": "happy-cat",
-      "name": "Happy Cat",
-      "description": "Take care of a cute little kitten and create a unique style for her!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/HappyCatTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/HappyCatTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/HappyCatTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/HappyCatTeaser.jpg",
-      "link": "https://play.famobi.com/happy-cat/A-432OH",
-      "aspect_ratio": 1,
-      "related": [],
-      "categories": [
-        "girls"
-      ],
-      "orientation": "none",
-      "highscores_enabled": false
-    },
-    {
       "package_id": "pirates-the-match-3",
       "name": "Pirates! The Match-3",
       "description": "Swap and combine at least 3 gems of the same type to remove them from the field in this exciting pirate adventure! Complete all level tasks and try to collect all stars!",
@@ -3527,23 +3242,6 @@
       ],
       "orientation": "none",
       "highscores_enabled": true
-    },
-    {
-      "package_id": "happy-pony",
-      "name": "Happy Pony",
-      "description": "Clean the cute little pony and give her a complete makeover! Her friends will be super impressed!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/HappyPonyTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/HappyPonyTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/HappyPonyTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/HappyPonyTeaser.jpg",
-      "link": "https://play.famobi.com/happy-pony/A-432OH",
-      "aspect_ratio": 1,
-      "related": [],
-      "categories": [
-        "girls"
-      ],
-      "orientation": "none",
-      "highscores_enabled": false
     },
     {
       "package_id": "table-tennis-world-tour",
@@ -3598,25 +3296,6 @@
       ],
       "orientation": "none",
       "highscores_enabled": true
-    },
-    {
-      "package_id": "tina-back-to-school",
-      "name": "Tina Back To School",
-      "description": "Help Tina prepare for a cool school party with her friends and give her a stylish makeover!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TinaBackToSchoolTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/TinaBackToSchoolTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/TinaBackToSchoolTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/TinaBackToSchoolTeaser.jpg",
-      "link": "https://play.famobi.com/tina-back-to-school/A-432OH",
-      "aspect_ratio": 1,
-      "related": [],
-      "categories": [
-        "dress-up",
-        "girls",
-        "make-up"
-      ],
-      "orientation": "none",
-      "highscores_enabled": false
     },
     {
       "package_id": "jump-with-justin",
@@ -3726,42 +3405,6 @@
       "highscores_enabled": false
     },
     {
-      "package_id": "fidget-spinner-designer",
-      "name": "Fidget Spinner Designer",
-      "description": "Impress your friends and design your own stylish fidget spinner toy!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FidgetSpinnerDesignerTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/FidgetSpinnerDesignerTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/FidgetSpinnerDesignerTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/FidgetSpinnerDesignerTeaser.jpg",
-      "link": "https://play.famobi.com/fidget-spinner-designer/A-432OH",
-      "aspect_ratio": 1,
-      "related": [],
-      "categories": [
-        "girls"
-      ],
-      "orientation": "none",
-      "highscores_enabled": false
-    },
-    {
-      "package_id": "nina-back-to-school",
-      "name": "Nina Back To School",
-      "description": "Help student Nina prepare for a glamorous party at school and give her a stunning makeover!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/NinaBackToSchoolTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/NinaBackToSchoolTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/NinaBackToSchoolTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/NinaBackToSchoolTeaser.jpg",
-      "link": "https://play.famobi.com/nina-back-to-school/A-432OH",
-      "aspect_ratio": 1,
-      "related": [],
-      "categories": [
-        "make-up",
-        "dress-up",
-        "girls"
-      ],
-      "orientation": "none",
-      "highscores_enabled": false
-    },
-    {
       "package_id": "jungle-run",
       "name": "Jungle Run",
       "description": "Join the apes Kiba and Kumba and jump, roll and fly through an epic endless runner adventure!",
@@ -3848,25 +3491,6 @@
       "highscores_enabled": true
     },
     {
-      "package_id": "tina-wedding",
-      "name": "Tina Wedding",
-      "description": "Style Tina for her romantic beach wedding and make her Big Day unforgettable!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TinaWeddingTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/TinaWeddingTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/TinaWeddingTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/TinaWeddingTeaser.jpg",
-      "link": "https://play.famobi.com/tina-wedding/A-432OH",
-      "aspect_ratio": 1,
-      "related": [],
-      "categories": [
-        "make-up",
-        "girls",
-        "dress-up"
-      ],
-      "orientation": "none",
-      "highscores_enabled": false
-    },
-    {
       "package_id": "banana-run",
       "name": "Banana Run",
       "description": "Collect coins and bananes and try reach a high score with your little monkey in this fun sidescroller platform game!",
@@ -3879,43 +3503,6 @@
       "related": [],
       "categories": [
         "jump-and-run"
-      ],
-      "orientation": "none",
-      "highscores_enabled": true
-    },
-    {
-      "package_id": "nina-wedding",
-      "name": "Nina Wedding",
-      "description": "Help cutie Nina prepare for her dream wedding and give her a stunning makeover!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/NinaWeddingTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/NinaWeddingTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/NinaWeddingTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/NinaWeddingTeaser.jpg",
-      "link": "https://play.famobi.com/nina-wedding/A-432OH",
-      "aspect_ratio": 1,
-      "related": [],
-      "categories": [
-        "dress-up",
-        "make-up",
-        "girls"
-      ],
-      "orientation": "none",
-      "highscores_enabled": false
-    },
-    {
-      "package_id": "fidget-spinner-high-score",
-      "name": "Fidget Spinner High Score",
-      "description": "Spin, earn coins and upgrade your fidget spinner! How many spins can you achieve in this crazy addictive game?",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FidgetSpinner_HighScoreTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/FidgetSpinner_HighScoreTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/FidgetSpinner_HighScoreTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/FidgetSpinner_HighScoreTeaser.jpg",
-      "link": "https://play.famobi.com/fidget-spinner-high-score/A-432OH",
-      "aspect_ratio": 0.66,
-      "related": [],
-      "categories": [
-        "skill",
-        "arcade"
       ],
       "orientation": "none",
       "highscores_enabled": true
@@ -4660,25 +4247,6 @@
       "highscores_enabled": true
     },
     {
-      "package_id": "kids-color-book-2",
-      "name": "Kids Color Book 2",
-      "description": "Color your favorite animals - now with 16 cute new images! This fun educational game aids children train their coordination skills and helps recognize color, lines and shapes.",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/KidsColorBook2Teaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/KidsColorBook2Teaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/KidsColorBook2Teaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/KidsColorBook2Teaser.jpg",
-      "link": "https://play.famobi.com/kids-color-book-2/A-432OH",
-      "aspect_ratio": 1,
-      "related": [],
-      "categories": [
-        "educational",
-        "girls",
-        "puzzle"
-      ],
-      "orientation": "none",
-      "highscores_enabled": false
-    },
-    {
       "package_id": "jigsaw-puzzle-classic",
       "name": "Jigsaw Puzzle Classic",
       "description": "Enjoy the ultimate jigsaw puzzle experience in three different modes!",
@@ -4764,23 +4332,6 @@
       "highscores_enabled": false
     },
     {
-      "package_id": "secret-bff",
-      "name": "Secret BFF",
-      "description": "Have you ever wanted to have a BFF, a best friend forever? Find out what kind of person she would be in this fun dress up and personality game!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SecretBFFTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/SecretBFFTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/SecretBFFTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/SecretBFFTeaser.jpg",
-      "link": "https://play.famobi.com/secret-bff/A-432OH",
-      "aspect_ratio": 0.63,
-      "related": [],
-      "categories": [
-        "girls"
-      ],
-      "orientation": "portrait",
-      "highscores_enabled": false
-    },
-    {
       "package_id": "rival-rush",
       "name": "Rival Rush",
       "description": "In this racing game, it's all about your skills - navigate your way through heavy traffic at full speed and avoid accidents at all costs!",
@@ -4796,23 +4347,6 @@
         "skill"
       ],
       "orientation": "none",
-      "highscores_enabled": false
-    },
-    {
-      "package_id": "cat-fashion-designer",
-      "name": "Cat Fashion Designer",
-      "description": "Become a fashion designer and create a unique outfit for your... cat! Meow!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/CatFashionDesignerTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/CatFashionDesignerTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/CatFashionDesignerTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/CatFashionDesignerTeaser.jpg",
-      "link": "https://play.famobi.com/cat-fashion-designer/A-432OH",
-      "aspect_ratio": 0.63,
-      "related": [],
-      "categories": [
-        "girls"
-      ],
-      "orientation": "portrait",
       "highscores_enabled": false
     },
     {
@@ -4956,24 +4490,6 @@
       "highscores_enabled": false
     },
     {
-      "package_id": "kitty-bubbles",
-      "name": "Kitty Bubbles",
-      "description": "Your task in this adorable Kitty bubble shooter is to match at least 3 same-colored balls of wool to remove them from the field.",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/KittyBubblesTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/KittyBubblesTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/KittyBubblesTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/KittyBubblesTeaser.jpg",
-      "link": "https://play.famobi.com/kitty-bubbles/A-432OH",
-      "aspect_ratio": 0.67,
-      "related": [],
-      "categories": [
-        "bubble-shooter",
-        "girls"
-      ],
-      "orientation": "portrait",
-      "highscores_enabled": true
-    },
-    {
       "package_id": "doctor-teeth",
       "name": "Doctor Teeth",
       "description": "Play as a dentist and use different tools to treat caries, bad breath and extract teeth. Can you give all your patients their smile back?",
@@ -4990,40 +4506,6 @@
       ],
       "orientation": "none",
       "highscores_enabled": false
-    },
-    {
-      "package_id": "kk-tri-towers-solitaire",
-      "name": "Kiba & Kumba: Tri Towers Solitaire",
-      "description": "Objective of the game is to clear all three peaks made of cards. Only cards that are lower or higher than the card at the bottom deck can be removed.",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/KkTriTowersTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/KkTriTowersTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/KkTriTowersTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/KkTriTowersTeaser.jpg",
-      "link": "https://play.famobi.com/kk-tri-towers-solitaire/A-432OH",
-      "aspect_ratio": 1.778,
-      "related": [],
-      "categories": [
-        "cards"
-      ],
-      "orientation": "none",
-      "highscores_enabled": true
-    },
-    {
-      "package_id": "geo-quiz-europe",
-      "name": "Geo Quiz - Europe",
-      "description": "Test your knowledge of European cities and sights in this fun geography quiz! Select a category and try to find the correct location on the map.",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/GeoQuizEuropeTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/GeoQuizEuropeTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/GeoQuizEuropeTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/GeoQuizEuropeTeaser.jpg",
-      "link": "https://play.famobi.com/geo-quiz-europe/A-432OH",
-      "aspect_ratio": 0.56,
-      "related": [],
-      "categories": [
-        "quiz"
-      ],
-      "orientation": "none",
-      "highscores_enabled": true
     },
     {
       "package_id": "kk-jigsaw-puzzle",
@@ -5202,24 +4684,6 @@
       "highscores_enabled": false
     },
     {
-      "package_id": "sery-runway-dolly",
-      "name": "Sery Runway Dolly",
-      "description": "Dress Sery up for a unique catwalk event! Select one of the mysterious boxes and create an extravagant look for the adorable doll with the items available!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SeryRunwayDollyTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/SeryRunwayDollyTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/SeryRunwayDollyTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/SeryRunwayDollyTeaser.jpg",
-      "link": "https://play.famobi.com/sery-runway-dolly/A-432OH",
-      "aspect_ratio": 1,
-      "related": [],
-      "categories": [
-        "girls",
-        "dress-up"
-      ],
-      "orientation": "none",
-      "highscores_enabled": false
-    },
-    {
       "package_id": "summer-fiesta",
       "name": "Summer Fiesta",
       "description": "Combine cute tops, bottoms, dresses, shoes and beautiful accessories and finish your favorite look for the Summer with a matching hairstyle!",
@@ -5258,44 +4722,6 @@
       "highscores_enabled": false
     },
     {
-      "package_id": "kids-color-book",
-      "name": "Kids Color Book",
-      "description": "Color your favorite animals! This fun educational game aids children train their coordination skills and helps recognize color, lines and shapes.",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/KidsColorBookTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/KidsColorBookTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/KidsColorBookTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/KidsColorBookTeaser.jpg",
-      "link": "https://play.famobi.com/kids-color-book/A-432OH",
-      "aspect_ratio": 1,
-      "related": [],
-      "categories": [
-        "educational",
-        "puzzle",
-        "girls"
-      ],
-      "orientation": "none",
-      "highscores_enabled": false
-    },
-    {
-      "package_id": "soccer-dress-up",
-      "name": "Soccer Dress Up",
-      "description": "Get ready for the next big soccer event and create a trendy new fan look! Choose between fancy tops, bottoms, shoes and cool accessories and finish your sporty dress with a matching hairstyle!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SoccerDressUpTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/SoccerDressUpTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/SoccerDressUpTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/SoccerDressUpTeaser.jpg",
-      "link": "https://play.famobi.com/soccer-dress-up/A-432OH",
-      "aspect_ratio": 0.749,
-      "related": [],
-      "categories": [
-        "girls",
-        "sports",
-        "dress-up"
-      ],
-      "orientation": "portrait",
-      "highscores_enabled": false
-    },
-    {
       "package_id": "soccer-bubbles",
       "name": "Soccer Bubbles",
       "description": "Just in time for the European Soccer Championship, this special version of the smash hit Smarty Bubbles will get your adrenaline pumping! Combine at least 3 same-colored balls to remove them from the field and try to clear all colors!",
@@ -5315,7 +4741,7 @@
     },
     {
       "package_id": "euro-penalty-2016",
-      "name": "Euro Penalty 2016",
+      "name": "Euro Penalty",
       "description": "Compete against Europe's soccer elite and win the trophy! Select your favorite team and show your skills as a striker and goalkeeper. Kick your way through thrilling penalty shootouts right up to the finals!",
       "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/EuroPenalty2016Teaser.jpg",
       "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/EuroPenalty2016Teaser.jpg",
@@ -5436,24 +4862,6 @@
       "highscores_enabled": true
     },
     {
-      "package_id": "tris-fashionista-dolly",
-      "name": "Tris Fashionista Dolly",
-      "description": "Show your styling skills and help Tris find the perfect outfit! Pick a mystery gift box and create cool new looks with the items available!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/TrisFashionistaDollyTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/TrisFashionistaDollyTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/TrisFashionistaDollyTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/TrisFashionistaDollyTeaser.jpg",
-      "link": "https://play.famobi.com/tris-fashionista-dolly/A-432OH",
-      "aspect_ratio": 1,
-      "related": [],
-      "categories": [
-        "girls",
-        "dress-up"
-      ],
-      "orientation": "none",
-      "highscores_enabled": false
-    },
-    {
       "package_id": "zop",
       "name": "Zop",
       "description": "Simple and addictive: connect at least 2 same-colored squares in this minimalist puzzle game to remove them from the field. Diagonal connections are not allowed, so plan your moves and try to earn as many points as possible in 60 seconds!",
@@ -5469,42 +4877,6 @@
       ],
       "orientation": "none",
       "highscores_enabled": true
-    },
-    {
-      "package_id": "solitaire-master",
-      "name": "Solitaire Master",
-      "description": "Solitaire, FreeCell and Spiderette, the three most popular card games - all in one game! Objective is to clear the field by sorting the cards by suit and rank.",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SolitaireMasterTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/SolitaireMasterTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/SolitaireMasterTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/SolitaireMasterTeaser.jpg",
-      "link": "https://play.famobi.com/solitaire-master/A-432OH",
-      "aspect_ratio": 0.6,
-      "related": [],
-      "categories": [
-        "cards"
-      ],
-      "orientation": "portrait",
-      "highscores_enabled": true
-    },
-    {
-      "package_id": "wedding-lily-2",
-      "name": "Wedding Lily 2",
-      "description": "Wedding Lily is back with more items, more styles and a whole new face feature! Dress Lily for her big day and finish the lovely bride's look by putting on a stunning make-up!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/WeddingLily2_Teaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/WeddingLily2_Teaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/WeddingLily2_Teaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/WeddingLily2_Teaser.jpg",
-      "link": "https://play.famobi.com/wedding-lily-2/A-432OH",
-      "aspect_ratio": 1.59,
-      "related": [],
-      "categories": [
-        "dress-up",
-        "girls",
-        "make-up"
-      ],
-      "orientation": "none",
-      "highscores_enabled": false
     },
     {
       "package_id": "park-your-car",
@@ -5840,24 +5212,6 @@
       "highscores_enabled": true
     },
     {
-      "package_id": "emilys-new-beginning",
-      "name": "Emily's New Beginning",
-      "description": "Restaurant owner Emily is facing the challenge to balance work and family life. Help the new mother of a cute baby daughter to serve customers, prepare food and take care of her family at the same time. Can you make her place a success?",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/EmilysNewBeginningTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/EmilysNewBeginningTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/EmilysNewBeginningTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/EmilysNewBeginningTeaser.jpg",
-      "link": "https://play.famobi.com/emilys-new-beginning/A-432OH",
-      "aspect_ratio": 1.47,
-      "related": [],
-      "categories": [
-        "girls",
-        "time-management-and-strategy"
-      ],
-      "orientation": "landscape",
-      "highscores_enabled": true
-    },
-    {
       "package_id": "troll-boxing",
       "name": "Troll Boxing",
       "description": "Fight against some ugly trolls! Demonstrate your punch and skills and become champion of the ring. Battle your way through hard rounds and climb the Troll Boxing throne!",
@@ -6081,23 +5435,6 @@
       ],
       "orientation": "landscape",
       "highscores_enabled": false
-    },
-    {
-      "package_id": "mommy-washing-toys",
-      "name": "Mommy Washing Toys",
-      "description": "Christmas is just around the corner, but all the presents got dirty somehow. Be a true angel and help your mommy to sort, wash and  dry the presents for your siblings. After all is done, wrap the gifts and make your mommy happy! Will you save Christmas?",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/MommyWashingChristmasToysTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/MommyWashingChristmasToysTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/MommyWashingChristmasToysTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/MommyWashingChristmasToysTeaser.jpg",
-      "link": "https://play.famobi.com/mommy-washing-toys/A-432OH",
-      "aspect_ratio": 1.33,
-      "related": [],
-      "categories": [
-        "girls"
-      ],
-      "orientation": "landscape",
-      "highscores_enabled": true
     },
     {
       "package_id": "mini-putt-holiday",
@@ -6386,25 +5723,6 @@
       "highscores_enabled": true
     },
     {
-      "package_id": "fashionista-maldives",
-      "name": "Fashionista Maldives",
-      "description": "Treat your skin with revitalizing extracts, plug your eyebrows and pamper your skin with high exclusive cremes before applying make up. Pick a beautiful dress and cute accessories to finish your styling.",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FashionistaMaldivesTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/FashionistaMaldivesTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/FashionistaMaldivesTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/FashionistaMaldivesTeaser.jpg",
-      "link": "https://play.famobi.com/fashionista-maldives/A-432OH",
-      "aspect_ratio": 1.3334,
-      "related": [],
-      "categories": [
-        "girls",
-        "make-up",
-        "dress-up"
-      ],
-      "orientation": "none",
-      "highscores_enabled": false
-    },
-    {
       "package_id": "winter-adventures",
       "name": "Winter Adventures",
       "description": "Discover winter wonderland! In Winter Adventures you accompany a tiny green creature. Go winter skating on a frozen lake, collect stars and avoid frozen obstacles. Gather as much stars as possible to decorate your Christmas trees and beat the highest score.",
@@ -6649,25 +5967,6 @@
         "puzzle"
       ],
       "orientation": "none",
-      "highscores_enabled": false
-    },
-    {
-      "package_id": "monster-pet",
-      "name": "Monster Pet",
-      "description": "Adopt your very own monster in this online pet game! Take good care of your new friend and make it happy! Play mini games to earn money and buy cool items to create a unique look for your little buddy!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/MonsterPetTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/MonsterPetTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/MonsterPetTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/MonsterPetTeaser.jpg",
-      "link": "https://play.famobi.com/monster-pet/A-432OH",
-      "aspect_ratio": 0.63,
-      "related": [],
-      "categories": [
-        "skill",
-        "girls",
-        "tamagotchi"
-      ],
-      "orientation": "portrait",
       "highscores_enabled": false
     },
     {
@@ -6928,24 +6227,6 @@
       ],
       "orientation": "none",
       "highscores_enabled": true
-    },
-    {
-      "package_id": "fashion-yo",
-      "name": "Fashion Yo!!",
-      "description": "Become a trendy fashion designer and create your own collection! Style your mannequins and present your awesome outfits in your show room. Play mini games to earn money, buy new items and unlock all achievements!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/FashionYoTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/FashionYoTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/FashionYoTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/FashionYoTeaser.jpg",
-      "link": "https://play.famobi.com/fashion-yo/A-432OH",
-      "aspect_ratio": 1.5,
-      "related": [],
-      "categories": [
-        "girls",
-        "make-up"
-      ],
-      "orientation": "landscape",
-      "highscores_enabled": false
     },
     {
       "package_id": "snowball-world",
@@ -7756,23 +7037,6 @@
       "highscores_enabled": false
     },
     {
-      "package_id": "super-loom-starburst",
-      "name": "Super Loom: Starburst",
-      "description": "Create an awesome Starburst bracelet in this colorful new Super Loom game!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SuperLoomStarburstTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/SuperLoomStarburstTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/SuperLoomStarburstTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/SuperLoomStarburstTeaser.jpg",
-      "link": "https://play.famobi.com/super-loom-starburst/A-432OH",
-      "aspect_ratio": 0.75,
-      "related": [],
-      "categories": [
-        "girls"
-      ],
-      "orientation": "portrait",
-      "highscores_enabled": false
-    },
-    {
       "package_id": "heavenly-sweet-donuts",
       "name": "Heavenly Sweet Donuts",
       "description": "Serve delicious donuts in this cute time management game and try to complete as many days as possible!",
@@ -7787,24 +7051,6 @@
         "arcade"
       ],
       "orientation": "portrait",
-      "highscores_enabled": true
-    },
-    {
-      "package_id": "spider-solitaire",
-      "name": "Spider Solitaire",
-      "description": "",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SpiderSolitaireTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/SpiderSolitaireTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/SpiderSolitaireTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/SpiderSolitaireTeaser.jpg",
-      "link": "https://play.famobi.com/spider-solitaire/A-432OH",
-      "aspect_ratio": 1.78,
-      "related": [],
-      "categories": [
-        "puzzle",
-        "cards"
-      ],
-      "orientation": "landscape",
       "highscores_enabled": true
     },
     {
@@ -8049,25 +7295,6 @@
       "highscores_enabled": true
     },
     {
-      "package_id": "shopping-lily",
-      "name": "Shopping Lily",
-      "description": "It's time for shopping! Create a perfect outfit in this fashionable dress up game.",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/ShoppingLilyTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/ShoppingLilyTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/ShoppingLilyTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/ShoppingLilyTeaser.jpg",
-      "link": "https://play.famobi.com/shopping-lily/A-432OH",
-      "aspect_ratio": 0.75,
-      "related": [],
-      "categories": [
-        "make-up",
-        "dress-up",
-        "girls"
-      ],
-      "orientation": "portrait",
-      "highscores_enabled": false
-    },
-    {
       "package_id": "pilot-heroes",
       "name": "Pilot Heroes",
       "description": "Play as a pilot and fly exciting missions in this action-packed skill game!",
@@ -8119,23 +7346,6 @@
       "highscores_enabled": true
     },
     {
-      "package_id": "beauty-cat-salon",
-      "name": "Beauty Cat Salon",
-      "description": "The cat stylist is in a devilish mood - help her mess up the grooming, but don't let the boss catch you!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/BeautyCatSalonTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/BeautyCatSalonTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/BeautyCatSalonTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/BeautyCatSalonTeaser.jpg",
-      "link": "https://play.famobi.com/beauty-cat-salon/A-432OH",
-      "aspect_ratio": 1.3334,
-      "related": [],
-      "categories": [
-        "girls"
-      ],
-      "orientation": "landscape",
-      "highscores_enabled": false
-    },
-    {
       "package_id": "pet-roulette",
       "name": "Pet Roulette",
       "description": "Find out which cute pet destiny has in store for you in this fun animal roulette and dress up game!",
@@ -8150,80 +7360,6 @@
         "girls"
       ],
       "orientation": "none",
-      "highscores_enabled": false
-    },
-    {
-      "package_id": "what-does-your-bf-look-like",
-      "name": "What Does Your Boyfriend Look Like?",
-      "description": "Do you believe in fate? Find out what your boyfriend looks like in this fun game!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/WhatDoesYourBfLookLikeTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/WhatDoesYourBfLookLikeTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/WhatDoesYourBfLookLikeTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/WhatDoesYourBfLookLikeTeaser.jpg",
-      "link": "https://play.famobi.com/what-does-your-bf-look-like/A-432OH",
-      "aspect_ratio": 1.3334,
-      "related": [],
-      "categories": [
-        "girls"
-      ],
-      "orientation": "none",
-      "highscores_enabled": false
-    },
-    {
-      "package_id": "summer-lily",
-      "name": "Summer Lily",
-      "description": "Lily is on summer vacation and you can travel with her! Pack your bags and create a beautiful summer outfit for her in this new dress up title!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SummerLily_Teaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/SummerLily_Teaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/SummerLily_Teaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/SummerLily_Teaser.jpg",
-      "link": "https://play.famobi.com/summer-lily/A-432OH",
-      "aspect_ratio": 0.75,
-      "related": [],
-      "categories": [
-        "dress-up",
-        "make-up",
-        "girls"
-      ],
-      "orientation": "portrait",
-      "highscores_enabled": false
-    },
-    {
-      "package_id": "easter-lily",
-      "name": "Easter Lily",
-      "description": "It's springtime! Create a fresh new look for Lily in this Easter-themed dress up game!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/EasterLilyNewTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/EasterLilyNewTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/EasterLilyNewTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/EasterLilyNewTeaser.jpg",
-      "link": "https://play.famobi.com/easter-lily/A-432OH",
-      "aspect_ratio": 0.75,
-      "related": [],
-      "categories": [
-        "girls",
-        "make-up",
-        "dress-up"
-      ],
-      "orientation": "portrait",
-      "highscores_enabled": false
-    },
-    {
-      "package_id": "halloween-lily",
-      "name": "Halloween Lily",
-      "description": "Help Lily in this fun dress up game pick a scary costume for Halloween!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/HalloweenLily_Teaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/HalloweenLily_Teaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/HalloweenLily_Teaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/HalloweenLily_Teaser.jpg",
-      "link": "https://play.famobi.com/halloween-lily/A-432OH",
-      "aspect_ratio": 0.75,
-      "related": [],
-      "categories": [
-        "dress-up",
-        "make-up",
-        "girls"
-      ],
-      "orientation": "portrait",
       "highscores_enabled": false
     },
     {
@@ -8327,57 +7463,6 @@
       ],
       "orientation": "landscape",
       "highscores_enabled": true
-    },
-    {
-      "package_id": "manga-lily",
-      "name": "Manga Lily",
-      "description": "Stroll around Japan's fashion mecca Harajuku and create some truly kawaii outfits for Lily in this fun Manga dress up game!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/MangaLilyTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/MangaLilyTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/MangaLilyTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/MangaLilyTeaser.jpg",
-      "link": "https://play.famobi.com/manga-lily/A-432OH",
-      "aspect_ratio": 0.75,
-      "related": [],
-      "categories": [
-        "girls",
-        "dress-up",
-        "make-up"
-      ],
-      "orientation": "portrait",
-      "highscores_enabled": false
-    },
-    {
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/SaveTheDateTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/SaveTheDateTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/SaveTheDateTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/SaveTheDateTeaser.jpg",
-      "aspect_ratio": 0.75,
-      "related": [],
-      "categories": [
-        "girls"
-      ],
-      "orientation": "portrait",
-      "highscores_enabled": true
-    },
-    {
-      "package_id": "wedding-lily",
-      "name": "Wedding Lily",
-      "description": "Lovely Lily is getting married and you have to help her dress up for her wedding day! Choose from many categories and create the most beautiful bridal look for Lily's big day!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/WeddingLilyTeaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/WeddingLilyTeaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/WeddingLilyTeaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/WeddingLilyTeaser.jpg",
-      "link": "https://play.famobi.com/wedding-lily/A-432OH",
-      "aspect_ratio": 0.75,
-      "related": [],
-      "categories": [
-        "make-up",
-        "dress-up",
-        "girls"
-      ],
-      "orientation": "portrait",
-      "highscores_enabled": false
     },
     {
       "package_id": "minimal-dots",
@@ -8881,25 +7966,6 @@
       ],
       "orientation": "landscape",
       "highscores_enabled": true
-    },
-    {
-      "package_id": "winter-lily",
-      "name": "Winter Lily",
-      "description": "Numerous features, countless combinations: be creative and try different looks in this cool Makeover game for the winter season. Dress Lily up, change her hair, and make her shine in the snow!",
-      "thumb": "https://img.cdn.famobi.com/portal/html5games/images/tmp/WinterLily_Teaser.jpg",
-      "thumb_60": "https://img.cdn.famobi.com/portal/html5games/images/tmp/60/WinterLily_Teaser.jpg",
-      "thumb_120": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/WinterLily_Teaser.jpg",
-      "thumb_180": "https://img.cdn.famobi.com/portal/html5games/images/tmp/180/WinterLily_Teaser.jpg",
-      "link": "https://play.famobi.com/winter-lily/A-432OH",
-      "aspect_ratio": 0.75,
-      "related": [],
-      "categories": [
-        "dress-up",
-        "girls",
-        "make-up"
-      ],
-      "orientation": "portrait",
-      "highscores_enabled": false
     },
     {
       "package_id": "pizza-margherita",
