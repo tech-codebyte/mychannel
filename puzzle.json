@@ -12,6 +12,12 @@
     "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/GetTheWeightTeaser.jpg"
   },
   {
+      "name": "Parking Rush",
+      "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/ParkingRushTeaser.jpg",
+      "url": "https://play.famobi.com/parking-rush/A-432OH",
+      "orientation": "port"
+    },
+  {
     "name":  "Fizz Puzzle",
     "url": "https://m.shtoss.com/game/fizz-puzzle/index.html",
     "orientation": "port",
@@ -29,6 +35,24 @@
     "orientation": "port",
     "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/AlienQuestTeaser.jpg"
   },
+  {
+      "name": "Peet Sneak",
+      "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/PeetSneakTeaser.jpg",
+      "url": "https://play.famobi.com/peet-sneak/A-432OH",
+      "orientation": "port"
+    },
+    {
+      "name": "Cut The Rope",
+      "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/CutTheRopeTeaser.jpg",
+      "url": "https://play.famobi.com/cut-the-rope/A-432OH",
+      "orientation": "port"
+    },
+	 {
+      "name": "Toilet Run",
+      "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/Toilet_RunTeaser.jpg",
+      "url": "https://play.famobi.com/toilet-run/A-432OH",
+      "orientation": "port"
+    },
   {
     "name": "Robotion",
     "url": "https://hjtgdhhefjx.play.gamezop.com/g/B1SlRFrWuN",
