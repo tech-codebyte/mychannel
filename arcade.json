@@ -174,6 +174,12 @@
     "image_path": "https://static.gamezop.io/NJ3xGOyfb5l/square.png"
   },
   {
+      "name": "Neon Rider",
+      "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/NeonRiderTeaser.jpg",
+      "url": "https://play.famobi.com/neon-rider/A-432OH",
+      "orientation": "port"
+    },
+  {
     "name":   "Zigzag Clash",
     "url": "https://hjtgdhhefjx.play.gamezop.com/g/BJlg94zA76",
     "orientation": "land",
@@ -185,6 +191,12 @@
     "orientation": "land",
     "image_path": "https://static.gamezop.io/rJXlRtBWd4/square.png"
   },
+  {
+      "name": "Pair Up 3D",
+      "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/PairUp3dTeaser.jpg",
+      "url": "https://play.famobi.com/pair-up-3d/A-432OH",
+      "orientation": "port"
+    },
   {
     "name": "Sheepop",
     "url": "https://hjtgdhhefjx.play.gamezop.com/g/NytfOJMW5e",
