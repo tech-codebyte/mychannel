@@ -5,6 +5,12 @@
     "orientation": "port",
     "image_path": "https://static.gamezop.io/SkQwnwnbK/square.png"
   },
+   {
+    "name": "Cube Jump",
+    "image_path": "https://s.h5games.online/images/cube-jump.jpg",
+    "url": "https://g.h5games.online/cube-jump/",
+    "orientation": "port"
+  },
   {
     "name": "Blazing Blades",
     "url": "https://hjtgdhhefjx.play.gamezop.com/g/UYiznUAya",
@@ -16,6 +22,12 @@
     "url": "https://play.famobi.com/toilet-run/A-432OH",
     "orientation": "port",
     "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/Toilet_RunTeaser.jpg"
+  },
+  {
+    "name": "Draw In",
+    "image_path": "https://s.h5games.online/images/draw-in.jpg",
+    "url": "https://g.h5games.online/draw-in/",
+    "orientation": "port"
   },
   {
     "name":  "Cut The Rope",
@@ -120,28 +132,16 @@
     "image_path": "https://static.gamezop.io/r1K-J3TQ5Ar/square.png"
   },
   {
-    "name":  "Air Hockey",
-    "url": "https://games.atmegame.com/gameshub/games/air-hockey/?utm_source=Gameshubk91u&utm_medium=Gameshubk91u",
-    "orientation": "port",
-    "image_path": "https://games.atmegame.com/gameshub/images/air-hockey/thumb.png"
-  },
-   {
-    "name":  "Zombie Busters",
-    "url": "https://games.atmegame.com/gameshub/games/zombie-buster?utm_source=Gameshubk91u&utm_medium=Gameshubk91u",
-    "orientation": "land",
-    "image_path": "https://games.atmegame.com/gameshub/images/zombie-buster/thumb.png"
-  },
-   {
-    "name":  "Road Racer",
-    "url": "https://games.atmegame.com/gameshub/games/road-racer/?utm_source=Gameshubk91u&utm_medium=Gameshubk91u",
-    "orientation": "port",
-    "image_path": "https://games.atmegame.com/gameshub/images/road-racer/thumb.png"
-  },
-  {
     "name":  "Cannon Balls 3D",
     "url": "https://play.famobi.com/cannon-balls-3d/A-432OH",
     "orientation": "port",
     "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/CannonBalls3dTeaser.jpg"
+  },
+  {
+    "name": "Mini Golf",
+    "image_path": "https://s.h5games.online/images/mini-golf.jpg",
+    "url": "https://g.h5games.online/mini-golf/",
+   "orientation": "land"
   },
   {
     "name":  "Surfer Archers",
@@ -149,11 +149,11 @@
     "orientation": "port",
     "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/SurferArchersTeaser.jpg"
   },
-   {
-    "name":  "Stack Jump",
-    "url": "https://games.atmegame.com/gameshub/games/stack-jump?utm_source=Gameshubk91u&utm_medium=Gameshubk91u",
-    "orientation": "port",
-    "image_path": "https://games.atmegame.com/gameshub/images/stack-jump/thumb.png"
+  {
+    "name": "Angry Cat Shot",
+    "image_path": "https://s.h5games.online/images/angry-cat-shot.jpg",
+    "url": "https://g.h5games.online/angry-cat-shot/",
+    "orientation": "land"
   },
    {
     "name":  "Shards",
@@ -294,6 +294,13 @@
     "image_path": "https://s.shtoss.com/images/linebright.jpg"
   },
   {
+    "name": "Fruit Master",
+    "image_path": "https://s.h5games.online/images/fruit-master.jpg",
+    "url": "https://g.h5games.online/fruit-master/",
+    "category": "other",
+    "orientation": "port"
+  },
+  {
     "name":  "Biggy Race",
     "url": "https://m.shtoss.com/game/biggy-race/index.html",
     "orientation": "land",
@@ -317,59 +324,29 @@
     "orientation": "port",
     "image_path": "https://img.cdn.famobi.com/portal/html5games/images/tmp/120/MazeTeaser.jpg"
   },
-  {
-    "name":  "Fruit Snake",
-    "url": "https://games.atmegame.com/gameshub/games/fruit-snake/?utm_source=Gameshubk91u&utm_medium=Gameshubk91u",
-    "orientation": "land",
-    "image_path": "https://games.atmegame.com/gameshub/images/fruit-snake/thumb.png"
-  },
    {
     "name":  "Mad Shark",
-    "url": "https://games.atmegame.com/gameshub/games/mad-shark/?utm_source=Gameshubk91u&utm_medium=Gameshubk91u",
+    "url": "https://g.h5games.online/mad-shark/",
     "orientation": "land",
-    "image_path": "https://games.atmegame.com/gameshub/images/mad-shark/thumb.png"
-  },
-   {
-    "name":  "Great Air Battles",
-    "url": "https://games.atmegame.com/gameshub/games/great-air-battles/?utm_source=Gameshubk91u&utm_medium=Gameshubk91u",
-    "orientation": "port",
-    "image_path": "https://games.atmegame.com/gameshub/images/great-air-battles/thumb.png"
+    "image_path": "https://s.h5games.online/images/mad-shark.jpg"
   },
   {
-    "name":  "Rocky Jetpack",
-    "url": "https://games.atmegame.com/gameshub/games/rocky-jetpack/?utm_source=Gameshubk91u&utm_medium=Gameshubk91u",
-    "orientation": "land",
-    "image_path": "https://games.atmegame.com/gameshub/images/rocky-jetpack/thumb.png"
-  },
-   {
-    "name":  "Space Purge",
-    "url": "https://games.atmegame.com/gameshub/games/space-purge/?utm_source=Gameshubk91u&utm_medium=Gameshubk91u",
-    "orientation": "land",
-    "image_path": "https://games.atmegame.com/gameshub/images/space-purge/thumb.png"
+    "name": "1 Line",
+    "image_path": "https://s.h5games.online/images/1-line.jpg",
+    "url": "https://g.h5games.online/1-line/",
+    "orientation": "port"
   },
   {
-    "name":  "Billiards",
-    "url": "https://games.atmegame.com/gameshub/games/billiards/?utm_source=Gameshubk91u&utm_medium=Gameshubk91u",
-    "orientation": "land",
-    "image_path": "https://games.atmegame.com/gameshub/images/billiards/thumb.png"
-  },
-   {
-    "name":  "Angry Cat Shot",
-    "url": "https://games.atmegame.com/gameshub/games/angry-cat-shot/?utm_source=Gameshubk91u&utm_medium=Gameshubk91u",
-    "orientation": "land",
-    "image_path": "https://games.atmegame.com/gameshub/images/angry-cat-shot/thumb.png"
+    "name": "Knots",
+    "image_path": "https://s.h5games.online/images/knots.jpg",
+    "url": "https://g.h5games.online/knots/",
+    "orientation": "land"
   },
   {
-    "name":  "Duck Hunter",
-    "url": "https://games.atmegame.com/gameshub/games/duck-hunter/?utm_source=Gameshubk91u&utm_medium=Gameshubk91u",
-    "orientation": "land",
-    "image_path": "https://games.atmegame.com/gameshub/images/duck-hunter/thumb.png"
-  },
-  {
-    "name":  "Monster Rush",
-    "url": "https://games.atmegame.com/gameshub/games/monster-rush/?utm_source=Gameshubk91u&utm_medium=Gameshubk91u",
-    "orientation": "land",
-    "image_path": "https://games.atmegame.com/gameshub/images/monster-rush/thumb.png"
+    "name": "Pool 8 Ball",
+    "image_path": "https://s.h5games.online/images/pool-8-ball.jpg",
+    "url": "https://g.h5games.online/pool-8-ball/",
+    "orientation": "land"
   },
    {
     "name": "Skill Shot",
